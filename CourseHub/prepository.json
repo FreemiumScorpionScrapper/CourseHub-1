@@ -1,0 +1,5233 @@
+[{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7c5"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/424/logo/logo_170X115.png",
+  "name": "Purdue University West Lafayette",
+  "location": "United States of America",
+  "gre": 213,
+  "greq": 151,
+  "grev": 162,
+  "ielts": 6.5,
+  "toefl": 88,
+  "sat": 1300,
+  "act": 31,
+  "gmat": 634,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7c8"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3177/logo/logo_170X115.png",
+  "name": "Southeastern Louisiana University",
+  "location": "United States of America",
+  "gre": 280,
+  "greq": 148,
+  "grev": 148,
+  "ielts": 0,
+  "toefl": 0,
+  "sat": 1140,
+  "act": 23,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7c6"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/937/logo/logo_170X115.png",
+  "name": "Drew University",
+  "location": "United States of America",
+  "gre": 260,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1200,
+  "act": 25,
+  "gmat": 650,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7c7"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1060/logo/logo_170X115.png",
+  "name": "Dean College",
+  "location": "United States of America",
+  "gre": 260,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 70,
+  "sat": 900,
+  "act": 20,
+  "gmat": 650,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7c9"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2444/logo/logo_170X115.png",
+  "name": "Eastern Michigan University",
+  "location": "United States of America",
+  "gre": 283,
+  "greq": 140,
+  "grev": 143,
+  "ielts": 6,
+  "toefl": 61,
+  "sat": 1084,
+  "act": 23,
+  "gmat": 450,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7ca"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2482/logo/logo_170X115.png",
+  "name": "University of Louisiana Monroe",
+  "location": "United States of America",
+  "gre": 283,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1000,
+  "act": 23,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7cb"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2016/logo/logo_170X115.png",
+  "name": "University of Louisiana at Lafayette",
+  "location": "United States of America",
+  "gre": 285,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 70,
+  "sat": 1070,
+  "act": 27,
+  "gmat": 450,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7cc"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2478/logo/logo_170X115.png",
+  "name": "Texas Southern University",
+  "location": "United States of America",
+  "gre": 286,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1000,
+  "act": 20,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7cd"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2458/logo/logo_170X115.png",
+  "name": "Middle Tennessee State University",
+  "location": "United States of America",
+  "gre": 286,
+  "greq": 148,
+  "grev": 138,
+  "ielts": 5.5,
+  "toefl": 61,
+  "sat": 1200,
+  "act": 27,
+  "gmat": 490,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7ce"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/534/logo/logo_170X115.png",
+  "name": "University of Louisville",
+  "location": "United States of America",
+  "gre": 286,
+  "greq": 143,
+  "grev": 143,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1350,
+  "act": 30,
+  "gmat": 585,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7cf"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/505/logo/logo_170X115.png",
+  "name": "University of Mississippi",
+  "location": "United States of America",
+  "gre": 286,
+  "greq": 137,
+  "grev": 149,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1115,
+  "act": 26,
+  "gmat": 650,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7d0"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3214/logo/logo_170X115.png",
+  "name": "Lafayette College",
+  "location": "United States of America",
+  "gre": 287,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 0,
+  "toefl": 0,
+  "sat": 1405,
+  "act": 34,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7d1"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/936/logo/logo_170X115.png",
+  "name": "Murray State University",
+  "location": "United States of America",
+  "gre": 288,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 5.5,
+  "toefl": 61,
+  "sat": 1000,
+  "act": 18,
+  "gmat": 490,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7d5"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2404/logo/logo_170X115.png",
+  "name": "CUNY Graduate School and University Center",
+  "location": "United States of America",
+  "gre": 290,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 0,
+  "toefl": 0,
+  "sat": 0,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7d6"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2156/logo/logo_170X115.png",
+  "name": "University of Southern Mississippi",
+  "location": "United States of America",
+  "gre": 290,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1000,
+  "act": 20,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7d7"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2449/logo/logo_170X115.png",
+  "name": "Indiana University of Pennsylvania",
+  "location": "United States of America",
+  "gre": 290,
+  "greq": 145,
+  "grev": 145,
+  "ielts": 6,
+  "toefl": 76,
+  "sat": 1000,
+  "act": 21,
+  "gmat": 520,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6eb93bc80a2a74f0e7d8"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1888/logo/logo_170X115.png",
+  "name": "Dallas Baptist University",
+  "location": "United States of America",
+  "gre": 290,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1180,
+  "act": 22,
+  "gmat": 425,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f287405dd7df4cbef8b"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/523/logo/logo_170X115.png",
+  "name": "Biola University",
+  "location": "United States of America",
+  "gre": 290,
+  "greq": 145,
+  "grev": 145,
+  "ielts": 7.5,
+  "toefl": 100,
+  "sat": 1000,
+  "act": 26,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f287405dd7df4cbef8c"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3404/logo/logo_170X115.png",
+  "name": "John Brown University",
+  "location": "United States of America",
+  "gre": 290,
+  "greq": 145,
+  "grev": 145,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1234,
+  "act": 26,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef8d"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/652/logo/logo_170X115.png",
+  "name": "Long Island University Post",
+  "location": "United States of America",
+  "gre": 290,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1000,
+  "act": 20,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef8e"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1072/logo/logo_170X115.png",
+  "name": "University of California Merced",
+  "location": "United States of America",
+  "gre": 290,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1100,
+  "act": 25,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef8f"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1924/logo/logo_170X115.png",
+  "name": "Augusta University",
+  "location": "United States of America",
+  "gre": 290,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 0,
+  "toefl": 78,
+  "sat": 1000,
+  "act": 24,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef90"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3266/logo/logo_170X115.png",
+  "name": "Thomas Aquinas College",
+  "location": "United States of America",
+  "gre": 290,
+  "greq": 145,
+  "grev": 145,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1380,
+  "act": 25,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef91"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2073/logo/logo_170X115.png",
+  "name": "Florida Atlantic University",
+  "location": "United States of America",
+  "gre": 290,
+  "greq": 145,
+  "grev": 145,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1240,
+  "act": 29,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef92"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1056/logo/logo_170X115.png",
+  "name": "Virginia International University",
+  "location": "United States of America",
+  "gre": 290,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1420,
+  "act": 22,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef93"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2448/logo/logo_170X115.png",
+  "name": "Indiana State University",
+  "location": "United States of America",
+  "gre": 291,
+  "greq": 141,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 61,
+  "sat": 1020,
+  "act": 21,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef94"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/439/logo/logo_170X115.png",
+  "name": "Indiana University Bloomington",
+  "location": "United States of America",
+  "gre": 291,
+  "greq": 145,
+  "grev": 146,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1303,
+  "act": 28,
+  "gmat": 677,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef95"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/481/logo/logo_170X115.png",
+  "name": "University of St Thomas",
+  "location": "United States of America",
+  "gre": 291,
+  "greq": 145,
+  "grev": 146,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1170,
+  "act": 27,
+  "gmat": 561,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef96"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/465/logo/logo_170X115.png",
+  "name": "University of Missouri",
+  "location": "United States of America",
+  "gre": 291,
+  "greq": 141,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 69,
+  "sat": 1180,
+  "act": 27,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef97"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2267/logo/logo_170X115.png",
+  "name": "Texas State University San Marcos",
+  "location": "United States of America",
+  "gre": 292,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 78,
+  "sat": 1020,
+  "act": 21,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef98"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2446/logo/logo_170X115.png",
+  "name": "East Tennessee State University",
+  "location": "United States of America",
+  "gre": 292,
+  "greq": 146,
+  "grev": 146,
+  "ielts": 5.5,
+  "toefl": 61,
+  "sat": 1020,
+  "act": 23,
+  "gmat": 562,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef99"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1204/logo/logo_170X115.png",
+  "name": "University of Montana Missoula",
+  "location": "United States of America",
+  "gre": 292,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 70,
+  "sat": 1160,
+  "act": 18,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef9b"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/972/logo/logo_170X115.png",
+  "name": "Oklahoma City University",
+  "location": "United States of America",
+  "gre": 293,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1170,
+  "act": 25,
+  "gmat": 475,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef9c"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/475/logo/logo_170X115.png",
+  "name": "University of South Carolina",
+  "location": "United States of America",
+  "gre": 293,
+  "greq": 140,
+  "grev": 153,
+  "ielts": 6.5,
+  "toefl": 77,
+  "sat": 1230,
+  "act": 28,
+  "gmat": 670,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f297405dd7df4cbef9e"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/425/logo/logo_170X115.png",
+  "name": "Southern Methodist University",
+  "location": "United States of America",
+  "gre": 293,
+  "greq": 146,
+  "grev": 147,
+  "ielts": 7.5,
+  "toefl": 100,
+  "sat": 1315,
+  "act": 30,
+  "gmat": 650,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf62"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2269/logo/logo_170X115.png",
+  "name": "University of the Cumberlands",
+  "location": "United States of America",
+  "gre": 293,
+  "greq": 143,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1000,
+  "act": 25,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf63"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3671/logo/logo_170X115.png",
+  "name": "Jacksonville University",
+  "location": "United States of America",
+  "gre": 294,
+  "greq": 146,
+  "grev": 148,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1200,
+  "act": 26,
+  "gmat": 480,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf64"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/941/logo/logo_170X115.png",
+  "name": "Southeast Missouri State University",
+  "location": "United States of America",
+  "gre": 294,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 5.5,
+  "toefl": 61,
+  "sat": 1210,
+  "act": 27,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf65"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/989/logo/logo_170X115.png",
+  "name": "Campbellsville University Campbellsville",
+  "location": "United States of America",
+  "gre": 294,
+  "greq": 147,
+  "grev": 147,
+  "ielts": 5,
+  "toefl": 80,
+  "sat": 1160,
+  "act": 24,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf66"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/564/logo/logo_170X115.png",
+  "name": "New Mexico State University",
+  "location": "United States of America",
+  "gre": 294,
+  "greq": 147,
+  "grev": 147,
+  "ielts": 6,
+  "toefl": 68,
+  "sat": 1060,
+  "act": 21,
+  "gmat": 400,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf67"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/522/logo/logo_170X115.png",
+  "name": "University of La Verne",
+  "location": "United States of America",
+  "gre": 295,
+  "greq": 148,
+  "grev": 147,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1205,
+  "act": 25,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf68"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3765/logo/logo_170X115.png",
+  "name": "Islamic University of Indonesia",
+  "location": "Indonesia",
+  "gre": 295,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 5.5,
+  "toefl": 61,
+  "sat": 0,
+  "act": 0,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf69"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/540/logo/logo_170X115.png",
+  "name": "Kent State University",
+  "location": "United States of America",
+  "gre": 295,
+  "greq": 150,
+  "grev": 145,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1055,
+  "act": 23,
+  "gmat": 559,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf6a"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2485/logo/logo_170X115.png",
+  "name": "The University of Texas Health Science Center at San Antonio",
+  "location": "United States of America",
+  "gre": 295,
+  "greq": 145,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 68,
+  "sat": 0,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf6b"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/978/logo/logo_170X115.png",
+  "name": "Columbus State University Riverpark",
+  "location": "United States of America",
+  "gre": 295,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1000,
+  "act": 20,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf6c"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1916/logo/logo_170X115.png",
+  "name": "California State University Fresno",
+  "location": "United States of America",
+  "gre": 295,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 61,
+  "sat": 1100,
+  "act": 22,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf6d"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/968/logo/logo_170X115.png",
+  "name": "University of New Haven",
+  "location": "United States of America",
+  "gre": 295,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1240,
+  "act": 28,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf6e"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1917/logo/logo_170X115.png",
+  "name": "Gardner Webb University",
+  "location": "United States of America",
+  "gre": 295,
+  "greq": 145,
+  "grev": 150,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1015,
+  "act": 22,
+  "gmat": 450,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf6f"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3709/logo/logo_170X115.png",
+  "name": "Christ University",
+  "location": "India",
+  "gre": 295,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 0,
+  "act": 0,
+  "gmat": 450,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf70"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/472/logo/logo_170X115.png",
+  "name": "University of Dayton",
+  "location": "United States of America",
+  "gre": 295,
+  "greq": 149,
+  "grev": 146,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1300,
+  "act": 24,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf71"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2380/logo/logo_170X115.png",
+  "name": "University of Nebraska Medical Center",
+  "location": "United States of America",
+  "gre": 296,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1100,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf72"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2356/logo/logo_170X115.png",
+  "name": "University of West Georgia",
+  "location": "United States of America",
+  "gre": 296,
+  "greq": 145,
+  "grev": 151,
+  "ielts": 6,
+  "toefl": 69,
+  "sat": 1000,
+  "act": 22,
+  "gmat": 450,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf73"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/72/logo/logo_170X115.png",
+  "name": "Rice University",
+  "location": "United States of America",
+  "gre": 296,
+  "greq": 150,
+  "grev": 146,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1460,
+  "act": 33,
+  "gmat": 706,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf74"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1878/logo/logo_170X115.png",
+  "name": "Robert Morris University",
+  "location": "United States of America",
+  "gre": 296,
+  "greq": 150,
+  "grev": 146,
+  "ielts": 5,
+  "toefl": 61,
+  "sat": 1080,
+  "act": 22,
+  "gmat": 470,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f4408c0de4490eaaf75"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1269/logo/logo_170X115.png",
+  "name": "Maastricht University",
+  "location": "Netherlands",
+  "gre": 296,
+  "greq": 148,
+  "grev": 148,
+  "ielts": 6,
+  "toefl": 60,
+  "sat": 0,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f474"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/916/logo/logo_170X115.png",
+  "name": "San Jose State University",
+  "location": "United States of America",
+  "gre": 297,
+  "greq": 153,
+  "grev": 0,
+  "ielts": 7,
+  "toefl": 80,
+  "sat": 1370,
+  "act": 23,
+  "gmat": 572,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f475"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/106/logo/logo_170X115.png",
+  "name": "University of Miami",
+  "location": "United States of America",
+  "gre": 297,
+  "greq": 148,
+  "grev": 149,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1390,
+  "act": 32,
+  "gmat": 640,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f476"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1839/logo/logo_170X115.png",
+  "name": "University of Massachusetts Medical School",
+  "location": "United States of America",
+  "gre": 297,
+  "greq": 153,
+  "grev": 144,
+  "ielts": 6.5,
+  "toefl": 100,
+  "sat": 1290,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f477"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/544/logo/logo_170X115.png",
+  "name": "University of New Mexico",
+  "location": "United States of America",
+  "gre": 297,
+  "greq": 146,
+  "grev": 151,
+  "ielts": 6,
+  "toefl": 68,
+  "sat": 1320,
+  "act": 32,
+  "gmat": 570,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f478"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3197/logo/logo_170X115.png",
+  "name": "United States Military Academy",
+  "location": "United States of America",
+  "gre": 297,
+  "greq": 144,
+  "grev": 153,
+  "ielts": 0,
+  "toefl": 0,
+  "sat": 0,
+  "act": 0,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f479"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2352/logo/logo_170X115.png",
+  "name": "University of Northern Colorado",
+  "location": "United States of America",
+  "gre": 297,
+  "greq": 140,
+  "grev": 146,
+  "ielts": 6,
+  "toefl": 70,
+  "sat": 1125,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f47a"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/492/logo/logo_170X115.png",
+  "name": "Louisiana State University Baton Rouge",
+  "location": "United States of America",
+  "gre": 297,
+  "greq": 153,
+  "grev": 144,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1210,
+  "act": 26,
+  "gmat": 601,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f47b"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/75/logo/logo_170X115.png",
+  "name": "Emory University",
+  "location": "United States of America",
+  "gre": 297,
+  "greq": 144,
+  "grev": 153,
+  "ielts": 7.5,
+  "toefl": 100,
+  "sat": 1360,
+  "act": 31,
+  "gmat": 681,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f47c"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/518/logo/logo_170X115.png",
+  "name": "University of Maryland Baltimore County",
+  "location": "United States of America",
+  "gre": 298,
+  "greq": 148,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1278,
+  "act": 30,
+  "gmat": 640,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f47d"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/470/logo/logo_170X115.png",
+  "name": "Illinois Institute of Technology",
+  "location": "United States of America",
+  "gre": 298,
+  "greq": 149,
+  "grev": 149,
+  "ielts": 5.5,
+  "toefl": 70,
+  "sat": 1230,
+  "act": 29,
+  "gmat": 567,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f47e"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/648/logo/logo_170X115.png",
+  "name": "Roosevelt University",
+  "location": "United States of America",
+  "gre": 298,
+  "greq": 150,
+  "grev": 148,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1170,
+  "act": 22,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f47f"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/942/logo/logo_170X115.png",
+  "name": "Northeastern Illinois University",
+  "location": "United States of America",
+  "gre": 298,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 61,
+  "sat": 1010,
+  "act": 20,
+  "gmat": 450,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f480"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3506/logo/logo_170X115.png",
+  "name": "California State University San Bernardino",
+  "location": "United States of America",
+  "gre": 298,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 5.5,
+  "toefl": 61,
+  "sat": 980,
+  "act": 21,
+  "gmat": 470,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f481"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1413/logo/logo_170X115.png",
+  "name": "Loma Linda University",
+  "location": "United States of America",
+  "gre": 298,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1100,
+  "act": 28,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f482"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/533/logo/logo_170X115.png",
+  "name": "University of Idaho",
+  "location": "United States of America",
+  "gre": 298,
+  "greq": 149,
+  "grev": 149,
+  "ielts": 6,
+  "toefl": 70,
+  "sat": 1200,
+  "act": 29,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f483"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/996/logo/logo_170X115.png",
+  "name": "University of Arkansas at Little Rock",
+  "location": "United States of America",
+  "gre": 298,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 71,
+  "sat": 1050,
+  "act": 21,
+  "gmat": 420,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f485"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/542/logo/logo_170X115.png",
+  "name": "Pace University New York Campus",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1140,
+  "act": 25,
+  "gmat": 570,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f56bc728522dc10f487"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/515/logo/logo_170X115.png",
+  "name": "Adelphi University",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 141,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1200,
+  "act": 25,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1fee5"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/662/logo/logo_170X115.png",
+  "name": "Birkbeck University of London",
+  "location": "United Kingdom",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 92,
+  "sat": 0,
+  "act": 0,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1fee6"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/567/logo/logo_170X115.png",
+  "name": "School of the Art Institute of Chicago",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 82,
+  "sat": 1340,
+  "act": 23,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1fee7"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/539/logo/logo_170X115.png",
+  "name": "Edgewood College",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1050,
+  "act": 22,
+  "gmat": 430,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1fee9"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/501/logo/logo_170X115.png",
+  "name": "Oregon State University",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1300,
+  "act": 28,
+  "gmat": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1feec"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/86/logo/logo_170X115.png",
+  "name": "New York University",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 150,
+  "grev": 159,
+  "ielts": 7.5,
+  "toefl": 100,
+  "sat": 1440,
+  "act": 32,
+  "gmat": 714,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1feed"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/520/logo/logo_170X115.png",
+  "name": "University of South Florida",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1100,
+  "act": 22,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1feef"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/570/logo/logo_170X115.png",
+  "name": "Maryland Institute College of Art",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1250,
+  "act": 25,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1fef0"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/509/logo/logo_170X115.png",
+  "name": "Missouri University of Science and Technology",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 151,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1250,
+  "act": 28,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1fef2"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/664/logo/logo_170X115.png",
+  "name": "Morrisville State College",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1100,
+  "act": 20,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1fef4"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/679/logo/logo_170X115.png",
+  "name": "Bellerbys College London",
+  "location": "United Kingdom",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 0,
+  "sat": 0,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1fef5"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/668/logo/logo_170X115.png",
+  "name": "London South Bank University",
+  "location": "United Kingdom",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1150,
+  "act": 24,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1fef6"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/569/logo/logo_170X115.png",
+  "name": "Cranbrook Academy of Art",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 7,
+  "toefl": 90,
+  "sat": 1600,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f698ae36a25c4e1fef7"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/548/logo/logo_170X115.png",
+  "name": "North Dakota State University",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1160,
+  "act": 24,
+  "gmat": 599,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d35b"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/580/logo/logo_170X115.png",
+  "name": "Texas Wesleyan University",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 151,
+  "ielts": 6,
+  "toefl": 68,
+  "sat": 920,
+  "act": 19,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d35c"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/524/logo/logo_170X115.png",
+  "name": "Florida Institute of Technology",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1200,
+  "act": 27,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d35d"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/543/logo/logo_170X115.png",
+  "name": "St Marys University of Minnesota",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 72,
+  "sat": 820,
+  "act": 19,
+  "gmat": 570,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d35e"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/633/logo/logo_170X115.png",
+  "name": "Kingston University London",
+  "location": "United Kingdom",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1325,
+  "act": 24,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d360"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/875/logo/logo_170X115.png",
+  "name": "Northeastern University Seattle Campus",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 78,
+  "sat": 1065,
+  "act": 33,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d361"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/669/logo/logo_170X115.png",
+  "name": "University of Hull",
+  "location": "United Kingdom",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1300,
+  "act": 28,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d365"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/642/logo/logo_170X115.png",
+  "name": "Liverpool John Moores University",
+  "location": "United Kingdom",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 89,
+  "sat": 1200,
+  "act": 0,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d367"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/632/logo/logo_170X115.png",
+  "name": "Keele University",
+  "location": "United Kingdom",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 0,
+  "sat": 1200,
+  "act": 28,
+  "gmat": 588,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d368"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/663/logo/logo_170X115.png",
+  "name": "Wheelock College",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 7.5,
+  "toefl": 110,
+  "sat": 1015,
+  "act": 20,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d369"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/502/logo/logo_170X115.png",
+  "name": "New Jersey Institute of Technology",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 151,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1250,
+  "act": 26,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d36a"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/671/logo/logo_170X115.png",
+  "name": "University of Amsterdam",
+  "location": "Netherlands",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 0,
+  "act": 0,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d36b"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/103/logo/logo_170X115.png",
+  "name": "Northeastern University",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 7,
+  "toefl": 99,
+  "sat": 1400,
+  "act": 32,
+  "gmat": 627,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f72de019757b0a0d36c"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/644/logo/logo_170X115.png",
+  "name": "University of Sussex",
+  "location": "United Kingdom",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 88,
+  "sat": 1300,
+  "act": 0,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f7f58c58e31c03881b1"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/591/logo/logo_170X115.png",
+  "name": "European School of Economics Rome",
+  "location": "Italy",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 87,
+  "sat": 1200,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f7f58c58e31c03881b2"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/444/logo/logo_170X115.png",
+  "name": "Miami University Oxford",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1310,
+  "act": 29,
+  "gmat": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f7f58c58e31c03881b3"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/658/logo/logo_170X115.png",
+  "name": "Massey University",
+  "location": "New Zealand",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1100,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f7f58c58e31c03881b8"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/581/logo/logo_170X115.png",
+  "name": "Hays International College",
+  "location": "Australia",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1080,
+  "act": 18,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f7f58c58e31c03881b9"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1064/logo/logo_170X115.png",
+  "name": "The University of Akron",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1160,
+  "act": 24,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f7f58c58e31c03881bc"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/561/logo/logo_170X115.png",
+  "name": "Ashland University",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 67,
+  "sat": 1030,
+  "act": 18,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8058c58e31c03881bf"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/630/logo/logo_170X115.png",
+  "name": "Coventry University London",
+  "location": "United Kingdom",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 89,
+  "sat": 0,
+  "act": 0,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8058c58e31c03881c0"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/631/logo/logo_170X115.png",
+  "name": "Durham University",
+  "location": "United Kingdom",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1300,
+  "act": 29,
+  "gmat": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8058c58e31c03881c1"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/604/logo/logo_170X115.png",
+  "name": "Milwaukee School of Engineering",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 82,
+  "sat": 1330,
+  "act": 28,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8058c58e31c03881c2"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/645/logo/logo_170X115.png",
+  "name": "The City College of New York",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 61,
+  "sat": 1180,
+  "act": 28,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8058c58e31c03881c3"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/975/logo/logo_170X115.png",
+  "name": "National University",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1200,
+  "act": 24,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fc8"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/660/logo/logo_170X115.png",
+  "name": "Curtin University Dubai",
+  "location": "United Arab Emirates",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 0,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fc9"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/466/logo/logo_170X115.png",
+  "name": "University of Nebraska Lincoln",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1220,
+  "act": 20,
+  "gmat": 570,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fca"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/656/logo/logo_170X115.png",
+  "name": "Auckland University of Technology",
+  "location": "New Zealand",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 0,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fcc"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/649/logo/logo_170X115.png",
+  "name": "Royal Roads University",
+  "location": "Canada",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 0,
+  "act": 0,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fcd"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/917/logo/logo_170X115.png",
+  "name": "Cleveland State University",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 78,
+  "sat": 1065,
+  "act": 25,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fce"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/566/logo/logo_170X115.png",
+  "name": "Rhode Island School of Design",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 93,
+  "sat": 1343,
+  "act": 28,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fcf"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/647/logo/logo_170X115.png",
+  "name": "Texas A and M University Corpus Christi",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1050,
+  "act": 20,
+  "gmat": 481,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fd0"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/641/logo/logo_170X115.png",
+  "name": "University of Lincoln",
+  "location": "United Kingdom",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1190,
+  "act": 26,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fd1"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/448/logo/logo_170X115.png",
+  "name": "Marquette University",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1240,
+  "act": 27,
+  "gmat": 580,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fd2"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/449/logo/logo_170X115.png",
+  "name": "University of Denver",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1370,
+  "act": 31,
+  "gmat": 545,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fd3"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3137/logo/logo_170X115.png",
+  "name": "King Fahd University of Petroleum and Minerals",
+  "location": "Saudi Arabia",
+  "gre": 299,
+  "greq": 156,
+  "grev": 143,
+  "ielts": 6,
+  "toefl": 68,
+  "sat": 0,
+  "act": 0,
+  "gmat": 450,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fd4"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/451/logo/logo_170X115.png",
+  "name": "Binghamton University SUNY",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 151,
+  "ielts": 6.5,
+  "toefl": 83,
+  "sat": 1360,
+  "act": 29,
+  "gmat": 603,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fd5"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/556/logo/logo_170X115.png",
+  "name": "Central Michigan University",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1103,
+  "act": 23,
+  "gmat": 450,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fd6"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/441/logo/logo_170X115.png",
+  "name": "Stevens Institute of Technology",
+  "location": "United States of America",
+  "gre": 299,
+  "greq": 149,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 90,
+  "sat": 1405,
+  "act": 31,
+  "gmat": 570,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fd8"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/593/logo/logo_170X115.png",
+  "name": "European School of Economics Florence",
+  "location": "Italy",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 90,
+  "sat": 0,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fd9"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/597/logo/logo_170X115.png",
+  "name": "Hult International Business School San Francisco",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1200,
+  "act": 24,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f8a4b8c82713cd63fdb"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/598/logo/logo_170X115.png",
+  "name": "Hult International Business School Dubai",
+  "location": "United Arab Emirates",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1200,
+  "act": 24,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f944dc122540803d3dc"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1146/logo/logo_170X115.png",
+  "name": "Carnegie Mellon University Australia",
+  "location": "Australia",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 7.5,
+  "toefl": 102,
+  "sat": 0,
+  "act": 0,
+  "gmat": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f944dc122540803d3dd"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/579/logo/logo_170X115.png",
+  "name": "Arkansas State University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 61,
+  "sat": 990,
+  "act": 21,
+  "gmat": 480,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f944dc122540803d3df"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/584/logo/logo_170X115.png",
+  "name": "American Graduate School of Business",
+  "location": "Switzerland",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 7,
+  "toefl": 85,
+  "sat": 950,
+  "act": 20,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f944dc122540803d3e2"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/550/logo/logo_170X115.png",
+  "name": "University of Alabama Huntsville",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 72,
+  "sat": 1200,
+  "act": 27,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f944dc122540803d3e4"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/595/logo/logo_170X115.png",
+  "name": "Green River College",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 5.5,
+  "toefl": 65,
+  "sat": 1410,
+  "act": 14,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f944dc122540803d3e5"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/589/logo/logo_170X115.png",
+  "name": "David Game College",
+  "location": "United Kingdom",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 0,
+  "sat": 1250,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6f944dc122540803d3eb"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/596/logo/logo_170X115.png",
+  "name": "Heriot Watt University Dubai",
+  "location": "United Arab Emirates",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1250,
+  "act": 28,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fe3ecb68503d4beb789"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/607/logo/logo_170X115.png",
+  "name": "St Francis University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 75,
+  "sat": 1150,
+  "act": 23,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fe3ecb68503d4beb78a"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/610/logo/logo_170X115.png",
+  "name": "Hult International Business School Shanghai",
+  "location": "China",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1200,
+  "act": 24,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fe3ecb68503d4beb78b"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/599/logo/logo_170X115.png",
+  "name": "Hult International Business School London",
+  "location": "United Kingdom",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1200,
+  "act": 24,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fe3ecb68503d4beb78d"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1030/logo/logo_170X115.png",
+  "name": "Metropolitan State University of Denver",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 160,
+  "ielts": 6,
+  "toefl": 72,
+  "sat": 1130,
+  "act": 21,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fe3ecb68503d4beb78e"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1028/logo/logo_170X115.png",
+  "name": "Chatham University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1230,
+  "act": 23,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fe3ecb68503d4beb78f"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/105/logo/logo_170X115.png",
+  "name": "University of Florida",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1350,
+  "act": 19,
+  "gmat": 585,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fe3ecb68503d4beb790"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/594/logo/logo_170X115.png",
+  "name": "European School of Economics Madrid",
+  "location": "Spain",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 90,
+  "sat": 0,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fe3ecb68503d4beb791"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1393/logo/logo_170X115.png",
+  "name": "University of Wisconsin Milwaukee",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 157,
+  "grev": 0,
+  "ielts": 5.5,
+  "toefl": 68,
+  "sat": 1240,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fe3ecb68503d4beb792"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1144/logo/logo_170X115.png",
+  "name": "Utah State University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1220,
+  "act": 30,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fe3ecb68503d4beb793"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1896/logo/logo_170X115.png",
+  "name": "University of Texas at Arlington",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1000,
+  "act": 19,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fe3ecb68503d4beb795"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1905/logo/logo_170X115.png",
+  "name": "State University of New York College of Environmental Science and Forestry",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 0,
+  "toefl": 0,
+  "sat": 1310,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fe3ecb68503d4beb797"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/726/logo/logo_170X115.png",
+  "name": "Dalhousie University",
+  "location": "Canada",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 7.5,
+  "toefl": 100,
+  "sat": 1200,
+  "act": 26,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc704630"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/457/logo/logo_170X115.png",
+  "name": "University of Vermont",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1280,
+  "act": 29,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc704631"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/483/logo/logo_170X115.png",
+  "name": "University of Arizona",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 7,
+  "toefl": 79,
+  "sat": 1220,
+  "act": 27,
+  "gmat": 543,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc704635"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/927/logo/logo_170X115.png",
+  "name": "Humboldt State University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1170,
+  "act": 21,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc704636"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/526/logo/logo_170X115.png",
+  "name": "Maryville University of St Louis",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 69,
+  "sat": 1145,
+  "act": 21,
+  "gmat": 593,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc704637"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2454/logo/logo_170X115.png",
+  "name": "Liberty University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 61,
+  "sat": 1150,
+  "act": 24,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc704639"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/480/logo/logo_170X115.png",
+  "name": "University of Kansas",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1090,
+  "act": 24,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc70463a"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2475/logo/logo_170X115.png",
+  "name": "Texas A And M University Commerce",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1060,
+  "act": 21,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc70463c"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/460/logo/logo_170X115.png",
+  "name": "University of Alabama",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1060,
+  "act": 27,
+  "gmat": 680,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc70463e"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/464/logo/logo_170X115.png",
+  "name": "Auburn University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1350,
+  "act": 29,
+  "gmat": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc70463f"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/467/logo/logo_170X115.png",
+  "name": "University of New Hampshire",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1180,
+  "act": 25,
+  "gmat": 400,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc704640"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/471/logo/logo_170X115.png",
+  "name": "Iowa State University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 155,
+  "grev": 145,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1230,
+  "act": 26,
+  "gmat": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc704642"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1914/logo/logo_170X115.png",
+  "name": "University of Massachusetts Dartmouth",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1100,
+  "act": 23,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fec25932865cc704643"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/538/logo/logo_170X115.png",
+  "name": "Azusa Pacific University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1117,
+  "act": 23,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a70455"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2467/logo/logo_170X115.png",
+  "name": "Prairie View A And M University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 152,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 61,
+  "sat": 1000,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a70456"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/536/logo/logo_170X115.png",
+  "name": "University of Wyoming",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1260,
+  "act": 24,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a7045a"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1080/logo/logo_170X115.png",
+  "name": "Elmira College",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 85,
+  "sat": 1200,
+  "act": 24,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a7045b"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/484/logo/logo_170X115.png",
+  "name": "University of California Riverside",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1315,
+  "act": 31,
+  "gmat": 611,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a7045d"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1974/logo/logo_170X115.png",
+  "name": "Northern Illinois University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1140,
+  "act": 23,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a7045e"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2426/logo/logo_170X115.png",
+  "name": "Embry Riddle Aeronautical University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1200,
+  "act": 24,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a7045f"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/951/logo/logo_170X115.png",
+  "name": "Lakehead University Orillia",
+  "location": "Canada",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 7,
+  "toefl": 90,
+  "sat": 1100,
+  "act": 24,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a70460"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1921/logo/logo_170X115.png",
+  "name": "Shenandoah University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1105,
+  "act": 23,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a70461"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3376/logo/logo_170X115.png",
+  "name": "Elmhurst College",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1170,
+  "act": 23,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a70462"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/498/logo/logo_170X115.png",
+  "name": "Hofstra University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1240,
+  "act": 27,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a70464"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2447/logo/logo_170X115.png",
+  "name": "Grand Canyon University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 0,
+  "toefl": 0,
+  "sat": 1380,
+  "act": 19,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a70465"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1186/logo/logo_170X115.png",
+  "name": "University of Groningen",
+  "location": "Netherlands",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 0,
+  "act": 20,
+  "gmat": 650,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a70466"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/508/logo/logo_170X115.png",
+  "name": "Kansas State University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1060,
+  "act": 21,
+  "gmat": 546,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a70467"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1913/logo/logo_170X115.png",
+  "name": "Montana State University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1120,
+  "act": 22,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6ff4016aa750f8a70468"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/784/logo/logo_170X115.png",
+  "name": "Fairleigh Dickinson University",
+  "location": "Canada",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 70,
+  "sat": 1210,
+  "act": 20,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c6fffea5f6f4bd04e1eeb"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3365/logo/logo_170X115.png",
+  "name": "Christopher Newport University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1250,
+  "act": 28,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1eec"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1485/logo/logo_170X115.png",
+  "name": "City University of New York",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1240,
+  "act": 24,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1eed"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/555/logo/logo_170X115.png",
+  "name": "Widener University",
+  "location": "United States of America",
+  "gre": 300,
+  "greq": 150,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1100,
+  "act": 23,
+  "gmat": 510,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1eee"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/572/logo/logo_170X115.png",
+  "name": "The New School",
+  "location": "United States of America",
+  "gre": 301,
+  "greq": 149,
+  "grev": 152,
+  "ielts": 7,
+  "toefl": 92,
+  "sat": 1180,
+  "act": 26,
+  "gmat": 695,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1eef"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/479/logo/logo_170X115.png",
+  "name": "Temple University",
+  "location": "United States of America",
+  "gre": 301,
+  "greq": 150,
+  "grev": 151,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1233,
+  "act": 27,
+  "gmat": 620,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1ef0"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/494/logo/logo_170X115.png",
+  "name": "University of Arkansas",
+  "location": "United States of America",
+  "gre": 301,
+  "greq": 150,
+  "grev": 151,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1130,
+  "act": 30,
+  "gmat": 511,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1ef1"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/614/logo/logo_170X115.png",
+  "name": "Istituto Marangoni Florence",
+  "location": "Italy",
+  "gre": 301,
+  "greq": 150,
+  "grev": 151,
+  "ielts": 5,
+  "toefl": 0,
+  "sat": 0,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1ef2"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3464/logo/logo_170X115.png",
+  "name": "California State University Sacramento",
+  "location": "United States of America",
+  "gre": 301,
+  "greq": 148,
+  "grev": 153,
+  "ielts": 6,
+  "toefl": 64,
+  "sat": 1050,
+  "act": 22,
+  "gmat": 585,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1ef3"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/487/logo/logo_170X115.png",
+  "name": "Michigan Technological University",
+  "location": "United States of America",
+  "gre": 301,
+  "greq": 153,
+  "grev": 148,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1290,
+  "act": 27,
+  "gmat": 534,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1ef4"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/458/logo/logo_170X115.png",
+  "name": "Florida State University",
+  "location": "United States of America",
+  "gre": 301,
+  "greq": 155,
+  "grev": 146,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1310,
+  "act": 29,
+  "gmat": 579,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1ef5"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/529/logo/logo_170X115.png",
+  "name": "University of Rhode Island",
+  "location": "United States of America",
+  "gre": 301,
+  "greq": 150,
+  "grev": 151,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1190,
+  "act": 25,
+  "gmat": 540,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1ef6"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2465/logo/logo_170X115.png",
+  "name": "North Carolina A and T State University",
+  "location": "United States of America",
+  "gre": 302,
+  "greq": 153,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1040,
+  "act": 20,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1ef7"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/453/logo/logo_170X115.png",
+  "name": "Stony Brook University SUNY",
+  "location": "United States of America",
+  "gre": 302,
+  "greq": 150,
+  "grev": 159,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1325,
+  "act": 29,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1ef8"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/547/logo/logo_170X115.png",
+  "name": "Bowling Green State University",
+  "location": "United States of America",
+  "gre": 302,
+  "greq": 152,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1025,
+  "act": 23,
+  "gmat": 504,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1ef9"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2476/logo/logo_170X115.png",
+  "name": "Texas A And M University Kingsville",
+  "location": "United States of America",
+  "gre": 302,
+  "greq": 0,
+  "grev": 152,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1140,
+  "act": 23,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1efa"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/554/logo/logo_170X115.png",
+  "name": "Western Michigan University",
+  "location": "United States of America",
+  "gre": 302,
+  "greq": 152,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 61,
+  "sat": 1090,
+  "act": 23,
+  "gmat": 450,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1efd"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/69/logo/logo_170X115.png",
+  "name": "Cornell University",
+  "location": "United States of America",
+  "gre": 302,
+  "greq": 153,
+  "grev": 149,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1480,
+  "act": 32,
+  "gmat": 700,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7000ea5f6f4bd04e1efe"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/634/logo/logo_170X115.png",
+  "name": "Lancaster University",
+  "location": "United Kingdom",
+  "gre": 302,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 95,
+  "sat": 1330,
+  "act": 29,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9ed9"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1897/logo/logo_170X115.png",
+  "name": "Medical College of Wisconsin",
+  "location": "United States of America",
+  "gre": 302,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 0,
+  "toefl": 0,
+  "sat": 1480,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9edb"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/97/logo/logo_170X115.png",
+  "name": "Rensselaer Polytechnic Institute",
+  "location": "United States of America",
+  "gre": 302,
+  "greq": 156,
+  "grev": 146,
+  "ielts": 6.5,
+  "toefl": 88,
+  "sat": 1409,
+  "act": 30,
+  "gmat": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9edc"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/551/logo/logo_170X115.png",
+  "name": "University of Houston",
+  "location": "United States of America",
+  "gre": 302,
+  "greq": 151,
+  "grev": 151,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1170,
+  "act": 24,
+  "gmat": 610,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9edd"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3343/logo/logo_170X115.png",
+  "name": "Cedarville University",
+  "location": "United States of America",
+  "gre": 302,
+  "greq": 151,
+  "grev": 151,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1100,
+  "act": 22,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9ede"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2353/logo/logo_170X115.png",
+  "name": "University of South Alabama",
+  "location": "United States of America",
+  "gre": 303,
+  "greq": 150,
+  "grev": 153,
+  "ielts": 5.5,
+  "toefl": 61,
+  "sat": 1000,
+  "act": 20,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9edf"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/450/logo/logo_170X115.png",
+  "name": "University of Tulsa",
+  "location": "United States of America",
+  "gre": 303,
+  "greq": 151,
+  "grev": 152,
+  "ielts": 6,
+  "toefl": 70,
+  "sat": 1320,
+  "act": 29,
+  "gmat": 593,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9ee0"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/751/logo/logo_170X115.png",
+  "name": "Macquarie University",
+  "location": "Australia",
+  "gre": 303,
+  "greq": 150,
+  "grev": 153,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1200,
+  "act": 28,
+  "gmat": 680,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9ee1"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/79/logo/logo_170X115.png",
+  "name": "University of Southern California",
+  "location": "United States of America",
+  "gre": 303,
+  "greq": 152,
+  "grev": 151,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1250,
+  "act": 27,
+  "gmat": 705,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9ee2"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/531/logo/logo_170X115.png",
+  "name": "Texas Tech University",
+  "location": "United States of America",
+  "gre": 303,
+  "greq": 151,
+  "grev": 152,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1180,
+  "act": 21,
+  "gmat": 602,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9ee3"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3520/logo/logo_170X115.png",
+  "name": "Georgia Southern University",
+  "location": "United States of America",
+  "gre": 303,
+  "greq": 150,
+  "grev": 153,
+  "ielts": 6,
+  "toefl": 75,
+  "sat": 1139,
+  "act": 23,
+  "gmat": 540,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9ee4"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3478/logo/logo_170X115.png",
+  "name": "Abilene Christian University",
+  "location": "United States of America",
+  "gre": 303,
+  "greq": 152,
+  "grev": 151,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1210,
+  "act": 27,
+  "gmat": 620,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9ee5"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3461/logo/logo_170X115.png",
+  "name": "California State University Northridge",
+  "location": "United States of America",
+  "gre": 303,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 61,
+  "sat": 1030,
+  "act": 23,
+  "gmat": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9ee6"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/459/logo/logo_170X115.png",
+  "name": "Saint Louis University",
+  "location": "United States of America",
+  "gre": 303,
+  "greq": 150,
+  "grev": 153,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1270,
+  "act": 28,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9ee7"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/500/logo/logo_170X115.png",
+  "name": "Ohio University",
+  "location": "United States of America",
+  "gre": 304,
+  "greq": 153,
+  "grev": 151,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1300,
+  "act": 26,
+  "gmat": 575,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9ee8"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/678/logo/logo_170X115.png",
+  "name": "Curtin University Perth",
+  "location": "Australia",
+  "gre": 304,
+  "greq": 152,
+  "grev": 152,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1000,
+  "act": 21,
+  "gmat": 580,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9ee9"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/915/logo/logo_170X115.png",
+  "name": "Wichita State University",
+  "location": "United States of America",
+  "gre": 304,
+  "greq": 152,
+  "grev": 152,
+  "ielts": 6,
+  "toefl": 72,
+  "sat": 1080,
+  "act": 21,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c700a8a8db06a88fe9eec"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/434/logo/logo_170X115.png",
+  "name": "American University",
+  "location": "United States of America",
+  "gre": 304,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1290,
+  "act": 29,
+  "gmat": 579,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701279fb0249141809fd"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/532/logo/logo_170X115.png",
+  "name": "University of Central Florida",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 152,
+  "grev": 153,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1300,
+  "act": 27,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701379fb024914180a02"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/478/logo/logo_170X115.png",
+  "name": "Duquesne University",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 155,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1125,
+  "act": 25,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701379fb024914180a07"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3537/logo/logo_170X115.png",
+  "name": "Carroll University",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 152,
+  "grev": 153,
+  "ielts": 6,
+  "toefl": 70,
+  "sat": 1160,
+  "act": 24,
+  "gmat": 656,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c092"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/4027/logo/logo_170X115.png",
+  "name": "Eynesbury College",
+  "location": "Australia",
+  "gre": 304,
+  "greq": 152,
+  "grev": 152,
+  "ielts": 6.5,
+  "toefl": 77,
+  "sat": 0,
+  "act": 0,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c093"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/659/logo/logo_170X115.png",
+  "name": "Taylors College",
+  "location": "Australia",
+  "gre": 304,
+  "greq": 152,
+  "grev": 152,
+  "ielts": 6,
+  "toefl": 73,
+  "sat": 1200,
+  "act": 27,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c094"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/4026/logo/logo_170X115.png",
+  "name": "South Australia Institute of Business And Technology",
+  "location": "Australia",
+  "gre": 304,
+  "greq": 152,
+  "grev": 152,
+  "ielts": 6.5,
+  "toefl": 0,
+  "sat": 0,
+  "act": 0,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c095"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/4026/logo/logo_170X115.png",
+  "name": "Australian Technical And Management College",
+  "location": "Australia",
+  "gre": 304,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 77,
+  "sat": 0,
+  "act": 0,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c096"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1840/logo/logo_170X115.png",
+  "name": "University of Texas at San Antonio",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 157,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1100,
+  "act": 24,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c097"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/530/logo/logo_170X115.png",
+  "name": "Ball State University",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 155,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1160,
+  "act": 23,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c098"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1389/logo/logo_170X115.png",
+  "name": "University of Valparaiso",
+  "location": "Chile",
+  "gre": 305,
+  "greq": 153,
+  "grev": 152,
+  "ielts": 6,
+  "toefl": 75,
+  "sat": 1270,
+  "act": 24,
+  "gmat": 620,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c09a"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1903/logo/logo_170X115.png",
+  "name": "Villanova University",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 155,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 90,
+  "sat": 1380,
+  "act": 32,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c09b"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/108/logo/logo_170X115.png",
+  "name": "Pepperdine University",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 152,
+  "grev": 153,
+  "ielts": 7,
+  "toefl": 95,
+  "sat": 1330,
+  "act": 28,
+  "gmat": 648,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c09c"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/940/logo/logo_170X115.png",
+  "name": "Trine University",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1270,
+  "act": 27,
+  "gmat": 490,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c09d"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/557/logo/logo_170X115.png",
+  "name": "East Carolina University",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 154,
+  "grev": 151,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1050,
+  "act": 22,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c09f"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/423/logo/logo_170X115.png",
+  "name": "Clemson University",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 150,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1308,
+  "act": 30,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c0a0"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/426/logo/logo_170X115.png",
+  "name": "Syracuse University",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 155,
+  "grev": 150,
+  "ielts": 6.5,
+  "toefl": 90,
+  "sat": 1190,
+  "act": 27,
+  "gmat": 623,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c0a1"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3173/logo/logo_170X115.png",
+  "name": "Tuskegee University",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 0,
+  "toefl": 62,
+  "sat": 1010,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c0a2"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/489/logo/logo_170X115.png",
+  "name": "Colorado State University",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 153,
+  "grev": 152,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1200,
+  "act": 25,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c701b8840123560c5c0a4"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/546/logo/logo_170X115.png",
+  "name": "University of South Dakota",
+  "location": "United States of America",
+  "gre": 305,
+  "greq": 154,
+  "grev": 151,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1070,
+  "act": 21,
+  "gmat": 540,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7c8"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1739/logo/logo_170X115.png",
+  "name": "Georgia State University",
+  "location": "United States of America",
+  "gre": 308,
+  "greq": 155,
+  "grev": 153,
+  "ielts": 6,
+  "toefl": 69,
+  "sat": 1180,
+  "act": 23,
+  "gmat": 620,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7c9"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/90/logo/logo_170X115.png",
+  "name": "Georgia Institute of Technology",
+  "location": "United States of America",
+  "gre": 308,
+  "greq": 155,
+  "grev": 153,
+  "ielts": 7,
+  "toefl": 90,
+  "sat": 1439,
+  "act": 32,
+  "gmat": 677,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7ca"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/447/logo/logo_170X115.png",
+  "name": "University of Iowa",
+  "location": "United States of America",
+  "gre": 308,
+  "greq": 155,
+  "grev": 153,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1230,
+  "act": 26,
+  "gmat": 676,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7cb"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/88/logo/logo_170X115.png",
+  "name": "Brandeis University",
+  "location": "United States of America",
+  "gre": 308,
+  "greq": 155,
+  "grev": 153,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1370,
+  "act": 32,
+  "gmat": 612,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7cc"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/435/logo/logo_170X115.png",
+  "name": "Baylor University",
+  "location": "United States of America",
+  "gre": 308,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 76,
+  "sat": 1276,
+  "act": 29,
+  "gmat": 628,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7cd"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/603/logo/logo_170X115.png",
+  "name": "Mount Allison University",
+  "location": "Canada",
+  "gre": 309,
+  "greq": 154,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 90,
+  "sat": 0,
+  "act": 0,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7ce"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/477/logo/logo_170X115.png",
+  "name": "Clarkson University",
+  "location": "United States of America",
+  "gre": 309,
+  "greq": 154,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1240,
+  "act": 27,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7cf"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/608/logo/logo_170X115.png",
+  "name": "Capilano University",
+  "location": "Canada",
+  "gre": 309,
+  "greq": 154,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 83,
+  "sat": 0,
+  "act": 0,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7d0"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/613/logo/logo_170X115.png",
+  "name": "Istituto Marangoni Milan",
+  "location": "Italy",
+  "gre": 309,
+  "greq": 154,
+  "grev": 155,
+  "ielts": 5,
+  "toefl": 0,
+  "sat": 0,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7d1"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1887/logo/logo_170X115.png",
+  "name": "California State University Fullerton",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 5.5,
+  "toefl": 61,
+  "sat": 1022,
+  "act": 24,
+  "gmat": 670,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7d2"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/577/logo/logo_170X115.png",
+  "name": "University of Calicut",
+  "location": "India",
+  "gre": 310,
+  "greq": 155,
+  "grev": 155,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 0,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7d3"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2055/logo/logo_170X115.png",
+  "name": "University of Toledo",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1200,
+  "act": 29,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7d5"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3497/logo/logo_170X115.png",
+  "name": "Minnesota State University Mankato",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 155,
+  "grev": 155,
+  "ielts": 5.5,
+  "toefl": 61,
+  "sat": 400,
+  "act": 21,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7023b436c26a1ce7f7db"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/485/logo/logo_170X115.png",
+  "name": "The Catholic University of America",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 155,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1214,
+  "act": 26,
+  "gmat": 580,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b51"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/721/logo/logo_170X115.png",
+  "name": "University of Alberta",
+  "location": "Canada",
+  "gre": 310,
+  "greq": 155,
+  "grev": 155,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1200,
+  "act": 26,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b52"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/443/logo/logo_170X115.png",
+  "name": "University of Massachusetts Amherst",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 155,
+  "grev": 155,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1230,
+  "act": 28,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b53"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/537/logo/logo_170X115.png",
+  "name": "Andrews University",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 155,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1350,
+  "act": 24,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b54"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/433/logo/logo_170X115.png",
+  "name": "Virginia Tech",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 157,
+  "grev": 153,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1250,
+  "act": 28,
+  "gmat": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b55"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/986/logo/logo_170X115.png",
+  "name": "College of Charleston",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1200,
+  "act": 25,
+  "gmat": 625,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b56"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2164/logo/logo_170X115.png",
+  "name": "Wright State University Dayton",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1000,
+  "act": 25,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b57"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1969/logo/logo_170X115.png",
+  "name": "Old Dominion University",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1000,
+  "act": 25,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b59"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/868/logo/logo_170X115.png",
+  "name": "University of California Santa Cruz Silicon Valley Extension",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1250,
+  "act": 0,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b5a"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3308/logo/logo_170X115.png",
+  "name": "Ithaca College",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 155,
+  "grev": 155,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1263,
+  "act": 27,
+  "gmat": 515,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b5b"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/462/logo/logo_170X115.png",
+  "name": "Loyola University Chicago",
+  "location": "United States of America",
+  "gre": 310,
+  "greq": 155,
+  "grev": 155,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1215,
+  "act": 28,
+  "gmat": 573,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b5c"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/722/logo/logo_170X115.png",
+  "name": "University of Calgary",
+  "location": "Canada",
+  "gre": 310,
+  "greq": 155,
+  "grev": 155,
+  "ielts": 7.5,
+  "toefl": 100,
+  "sat": 1190,
+  "act": 24,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b5d"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/773/logo/logo_170X115.png",
+  "name": "Brock University",
+  "location": "Canada",
+  "gre": 311,
+  "greq": 156,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 88,
+  "sat": 0,
+  "act": 0,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b5e"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3314/logo/logo_170X115.png",
+  "name": "Butler University",
+  "location": "United States of America",
+  "gre": 311,
+  "greq": 155,
+  "grev": 156,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1310,
+  "act": 30,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b5f"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/771/logo/logo_170X115.png",
+  "name": "University of Saskatchewan",
+  "location": "Canada",
+  "gre": 311,
+  "greq": 156,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 86,
+  "sat": 0,
+  "act": 0,
+  "gmat": 587,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b60"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/437/logo/logo_170X115.png",
+  "name": "Clark University",
+  "location": "United States of America",
+  "gre": 311,
+  "greq": 158,
+  "grev": 153,
+  "ielts": 6.5,
+  "toefl": 90,
+  "sat": 1295,
+  "act": 30,
+  "gmat": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b61"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3256/logo/logo_170X115.png",
+  "name": "Elon University",
+  "location": "United States of America",
+  "gre": 311,
+  "greq": 155,
+  "grev": 156,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1280,
+  "act": 26,
+  "gmat": 557,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b62"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/496/logo/logo_170X115.png",
+  "name": "University of Kentucky",
+  "location": "United States of America",
+  "gre": 311,
+  "greq": 155,
+  "grev": 156,
+  "ielts": 6,
+  "toefl": 71,
+  "sat": 1125,
+  "act": 26,
+  "gmat": 634,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c702daff2527364ec6b63"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/113/logo/logo_170X115.png",
+  "name": "University of Connecticut",
+  "location": "United States of America",
+  "gre": 311,
+  "greq": 156,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1053,
+  "act": 28,
+  "gmat": 640,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c703820c4c12a14142138"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/737/logo/logo_170X115.png",
+  "name": "University of Bristol",
+  "location": "United Kingdom",
+  "gre": 313,
+  "greq": 163,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 86,
+  "sat": 1300,
+  "act": 24,
+  "gmat": 590,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c703820c4c12a1414213c"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/100/logo/logo_170X115.png",
+  "name": "University of Illinois Urbana Champaign",
+  "location": "United States of America",
+  "gre": 314,
+  "greq": 155,
+  "grev": 159,
+  "ielts": 6.5,
+  "toefl": 96,
+  "sat": 1385,
+  "act": 30,
+  "gmat": 670,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afa9"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/488/logo/logo_170X115.png",
+  "name": "Seton Hall University",
+  "location": "United States of America",
+  "gre": 312,
+  "greq": 157,
+  "grev": 155,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1235,
+  "act": 26,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afaa"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/768/logo/logo_170X115.png",
+  "name": "University of Melbourne",
+  "location": "Australia",
+  "gre": 312,
+  "greq": 158,
+  "grev": 154,
+  "ielts": 7,
+  "toefl": 90,
+  "sat": 1330,
+  "act": 28,
+  "gmat": 650,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afab"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/421/logo/logo_170X115.png",
+  "name": "University of Maryland College Park",
+  "location": "United States of America",
+  "gre": 313,
+  "greq": 155,
+  "grev": 158,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1385,
+  "act": 32,
+  "gmat": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afac"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/65/logo/logo_170X115.png",
+  "name": "Johns Hopkins University",
+  "location": "United States of America",
+  "gre": 313,
+  "greq": 153,
+  "grev": 160,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1480,
+  "act": 34,
+  "gmat": 650,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afad"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3242/logo/logo_170X115.png",
+  "name": "Bentley University",
+  "location": "United States of America",
+  "gre": 313,
+  "greq": 151,
+  "grev": 162,
+  "ielts": 7,
+  "toefl": 90,
+  "sat": 1321,
+  "act": 29,
+  "gmat": 650,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afae"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/562/logo/logo_170X115.png",
+  "name": "Indiana University Purdue University Indianapolis",
+  "location": "United States of America",
+  "gre": 313,
+  "greq": 162,
+  "grev": 151,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1125,
+  "act": 22,
+  "gmat": 635,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afaf"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/70/logo/logo_170X115.png",
+  "name": "Vanderbilt University",
+  "location": "United States of America",
+  "gre": 313,
+  "greq": 161,
+  "grev": 152,
+  "ielts": 7,
+  "toefl": 88,
+  "sat": 1480,
+  "act": 32,
+  "gmat": 690,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afb0"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/491/logo/logo_170X115.png",
+  "name": "Arizona State University Tempe",
+  "location": "United States of America",
+  "gre": 313,
+  "greq": 156,
+  "grev": 157,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1120,
+  "act": 22,
+  "gmat": 694,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afb1"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/96/logo/logo_170X115.png",
+  "name": "Boston University",
+  "location": "United States of America",
+  "gre": 313,
+  "greq": 158,
+  "grev": 155,
+  "ielts": 7,
+  "toefl": 90,
+  "sat": 1320,
+  "act": 30,
+  "gmat": 681,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afb3"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/731/logo/logo_170X115.png",
+  "name": "Imperial College London",
+  "location": "United Kingdom",
+  "gre": 314,
+  "greq": 156,
+  "grev": 158,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1200,
+  "act": 0,
+  "gmat": 600,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afb4"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/80/logo/logo_170X115.png",
+  "name": "University of Virginia",
+  "location": "United States of America",
+  "gre": 314,
+  "greq": 159,
+  "grev": 155,
+  "ielts": 7,
+  "toefl": 90,
+  "sat": 1320,
+  "act": 31,
+  "gmat": 706,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afb5"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/427/logo/logo_170X115.png",
+  "name": "University of Georgia",
+  "location": "United States of America",
+  "gre": 314,
+  "greq": 157,
+  "grev": 157,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1359,
+  "act": 33,
+  "gmat": 663,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afb7"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2484/logo/logo_170X115.png",
+  "name": "Icahn School of Medicine at Mount Sinai",
+  "location": "United States of America",
+  "gre": 314,
+  "greq": 157,
+  "grev": 157,
+  "ielts": 0,
+  "toefl": 0,
+  "sat": 1350,
+  "act": 0,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afb8"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/84/logo/logo_170X115.png",
+  "name": "Boston College",
+  "location": "United States of America",
+  "gre": 315,
+  "greq": 160,
+  "grev": 155,
+  "ielts": 7.5,
+  "toefl": 100,
+  "sat": 1465,
+  "act": 33,
+  "gmat": 656,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afb9"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/3499/logo/logo_170X115.png",
+  "name": "Western State Colorado University",
+  "location": "United States of America",
+  "gre": 315,
+  "greq": 157,
+  "grev": 158,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1120,
+  "act": 22,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afba"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/59/logo/logo_170X115.png",
+  "name": "University of Chicago",
+  "location": "United States of America",
+  "gre": 315,
+  "greq": 163,
+  "grev": 161,
+  "ielts": 7,
+  "toefl": 104,
+  "sat": 1525,
+  "act": 34,
+  "gmat": 726,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afbb"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/422/logo/logo_170X115.png",
+  "name": "Worcester Polytechnic Institute",
+  "location": "United States of America",
+  "gre": 315,
+  "greq": 165,
+  "grev": 150,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1395,
+  "act": 30,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c705a0ef47f41ec46afbc"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/67/logo/logo_170X115.png",
+  "name": "Northwestern University",
+  "location": "United States of America",
+  "gre": 315,
+  "greq": 161,
+  "grev": 154,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1520,
+  "act": 24,
+  "gmat": 732,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993dda"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/74/logo/logo_170X115.png",
+  "name": "University of California Berkeley",
+  "location": "United States of America",
+  "gre": 318,
+  "greq": 157,
+  "grev": 161,
+  "ielts": 7,
+  "toefl": 90,
+  "sat": 1450,
+  "act": 33,
+  "gmat": 715,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993ddb"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/85/logo/logo_170X115.png",
+  "name": "University of North Carolina Chapel Hill",
+  "location": "United States of America",
+  "gre": 318,
+  "greq": 159,
+  "grev": 159,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1375,
+  "act": 31,
+  "gmat": 700,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993ddc"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/2451/logo/logo_170X115.png",
+  "name": "Kennesaw State University",
+  "location": "United States of America",
+  "gre": 318,
+  "greq": 159,
+  "grev": 159,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1160,
+  "act": 24,
+  "gmat": 570,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993ddd"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/455/logo/logo_170X115.png",
+  "name": "University of Colorado Boulder",
+  "location": "United States of America",
+  "gre": 318,
+  "greq": 161,
+  "grev": 157,
+  "ielts": 6.5,
+  "toefl": 75,
+  "sat": 1280,
+  "act": 29,
+  "gmat": 615,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993dde"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/76/logo/logo_170X115.png",
+  "name": "Georgetown University",
+  "location": "United States of America",
+  "gre": 319,
+  "greq": 157,
+  "grev": 162,
+  "ielts": 6,
+  "toefl": 80,
+  "sat": 1475,
+  "act": 32,
+  "gmat": 650,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993ddf"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/461/logo/logo_170X115.png",
+  "name": "Drexel University",
+  "location": "United States of America",
+  "gre": 319,
+  "greq": 157,
+  "grev": 162,
+  "ielts": 6.5,
+  "toefl": 90,
+  "sat": 1270,
+  "act": 27,
+  "gmat": 570,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993de0"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/452/logo/logo_170X115.png",
+  "name": "North Carolina State University Raleigh",
+  "location": "United States of America",
+  "gre": 319,
+  "greq": 159,
+  "grev": 160,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1320,
+  "act": 29,
+  "gmat": 625,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993de1"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1106/logo/logo_170X115.png",
+  "name": "HEC Paris",
+  "location": "France",
+  "gre": 319,
+  "greq": 160,
+  "grev": 159,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 0,
+  "act": 0,
+  "gmat": 690,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993de2"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/474/logo/logo_170X115.png",
+  "name": "University of San Francisco",
+  "location": "United States of America",
+  "gre": 319,
+  "greq": 164,
+  "grev": 155,
+  "ielts": 6,
+  "toefl": 65,
+  "sat": 1220,
+  "act": 26,
+  "gmat": 605,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993de3"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/906/logo/logo_170X115.png",
+  "name": "Washington State University Vancouver",
+  "location": "United States of America",
+  "gre": 320,
+  "greq": 165,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1115,
+  "act": 26,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993de4"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1359/logo/logo_170X115.png",
+  "name": "National Taiwan Normal University",
+  "location": "Taiwan",
+  "gre": 320,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 85,
+  "sat": 0,
+  "act": 0,
+  "gmat": 610,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993de6"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/473/logo/logo_170X115.png",
+  "name": "University of Oklahoma",
+  "location": "United States of America",
+  "gre": 320,
+  "greq": 157,
+  "grev": 163,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1265,
+  "act": 26,
+  "gmat": 597,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993de8"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/456/logo/logo_170X115.png",
+  "name": "University of San Diego",
+  "location": "United States of America",
+  "gre": 320,
+  "greq": 154,
+  "grev": 166,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1275,
+  "act": 28,
+  "gmat": 611,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993de9"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/568/logo/logo_170X115.png",
+  "name": "California Institute of the Arts",
+  "location": "United States of America",
+  "gre": 320,
+  "greq": 154,
+  "grev": 166,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1010,
+  "act": 24,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993deb"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/909/logo/logo_170X115.png",
+  "name": "Washington State University Everett",
+  "location": "United States of America",
+  "gre": 320,
+  "greq": 165,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1115,
+  "act": 26,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993dec"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/908/logo/logo_170X115.png",
+  "name": "Washington State University Tri Cities",
+  "location": "United States of America",
+  "gre": 320,
+  "greq": 165,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1115,
+  "act": 26,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c7064f84d864d68993ded"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/907/logo/logo_170X115.png",
+  "name": "Washington State University Spokane",
+  "location": "United States of America",
+  "gre": 320,
+  "greq": 165,
+  "grev": 155,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1115,
+  "act": 26,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d54"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/1904/logo/logo_170X115.png",
+  "name": "Rochester Institute of Technology",
+  "location": "United States of America",
+  "gre": 320,
+  "greq": 0,
+  "grev": 0,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1120,
+  "act": 29,
+  "gmat": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d55"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/94/logo/logo_170X115.png",
+  "name": "University of California San Diego",
+  "location": "United States of America",
+  "gre": 320,
+  "greq": 154,
+  "grev": 166,
+  "ielts": 7,
+  "toefl": 85,
+  "sat": 1370,
+  "act": 30,
+  "gmat": 650,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d56"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/420/logo/logo_170X115.png",
+  "name": "Wake Forest University",
+  "location": "United States of America",
+  "gre": 320,
+  "greq": 160,
+  "grev": 160,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1290,
+  "act": 31,
+  "gmat": 639,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d57"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/469/logo/logo_170X115.png",
+  "name": "University of Tennessee",
+  "location": "United States of America",
+  "gre": 321,
+  "greq": 163,
+  "grev": 158,
+  "ielts": 6,
+  "toefl": 79,
+  "sat": 1310,
+  "act": 27,
+  "gmat": 656,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d58"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/718/logo/logo_170X115.png",
+  "name": "McGill University",
+  "location": "Canada",
+  "gre": 321,
+  "greq": 163,
+  "grev": 158,
+  "ielts": 6.5,
+  "toefl": 94,
+  "sat": 1400,
+  "act": 33,
+  "gmat": 670,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d59"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/535/logo/logo_170X115.png",
+  "name": "University of Maine",
+  "location": "United States of America",
+  "gre": 321,
+  "greq": 162,
+  "grev": 159,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1100,
+  "act": 24,
+  "gmat": 550,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d5a"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/428/logo/logo_170X115.png",
+  "name": "Brigham Young University Provo",
+  "location": "United States of America",
+  "gre": 321,
+  "greq": 161,
+  "grev": 160,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1300,
+  "act": 30,
+  "gmat": 680,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d5b"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/81/logo/logo_170X115.png",
+  "name": "Tufts University",
+  "location": "United States of America",
+  "gre": 321,
+  "greq": 165,
+  "grev": 156,
+  "ielts": 6.5,
+  "toefl": 90,
+  "sat": 1480,
+  "act": 33,
+  "gmat": 680,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d5c"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/729/logo/logo_170X115.png",
+  "name": "University of Oxford",
+  "location": "United Kingdom",
+  "gre": 321,
+  "greq": 161,
+  "grev": 160,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1400,
+  "act": 33,
+  "gmat": 690,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d5d"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/83/logo/logo_170X115.png",
+  "name": "University of Michigan Ann Arbor",
+  "location": "United States of America",
+  "gre": 321,
+  "greq": 167,
+  "grev": 154,
+  "ielts": 6.5,
+  "toefl": 90,
+  "sat": 1460,
+  "act": 33,
+  "gmat": 716,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d5e"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/431/logo/logo_170X115.png",
+  "name": "University of Minnesota Twin Cities",
+  "location": "United States of America",
+  "gre": 321,
+  "greq": 160,
+  "grev": 161,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1440,
+  "act": 32,
+  "gmat": 690,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d5f"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/99/logo/logo_170X115.png",
+  "name": "University of California Davis",
+  "location": "United States of America",
+  "gre": 322,
+  "greq": 168,
+  "grev": 154,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1370,
+  "act": 31,
+  "gmat": 671,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d60"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/732/logo/logo_170X115.png",
+  "name": "University College London",
+  "location": "United Kingdom",
+  "gre": 322,
+  "greq": 161,
+  "grev": 161,
+  "ielts": 6.5,
+  "toefl": 100,
+  "sat": 1490,
+  "act": 32,
+  "gmat": 60026,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d61"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/64/logo/logo_170X115.png",
+  "name": "California Institute of Technology",
+  "location": "United States of America",
+  "gre": 322,
+  "greq": 167,
+  "grev": 155,
+  "ielts": 7,
+  "toefl": 110,
+  "sat": 1530,
+  "act": 34,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d62"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/66/logo/logo_170X115.png",
+  "name": "Dartmouth College",
+  "location": "United States of America",
+  "gre": 322,
+  "greq": 164,
+  "grev": 158,
+  "ielts": 7,
+  "toefl": 105,
+  "sat": 1490,
+  "act": 33,
+  "gmat": 722,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d63"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/57/logo/logo_170X115.png",
+  "name": "Columbia University",
+  "location": "United States of America",
+  "gre": 323,
+  "greq": 163,
+  "grev": 160,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1300,
+  "act": 29,
+  "gmat": 732,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d64"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/735/logo/logo_170X115.png",
+  "name": "London School of Economics and Political Science",
+  "location": "United Kingdom",
+  "gre": 324,
+  "greq": 163,
+  "grev": 161,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 0,
+  "act": 0,
+  "gmat": 690,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d65"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/468/logo/logo_170X115.png",
+  "name": "University of Oregon",
+  "location": "United States of America",
+  "gre": 324,
+  "greq": 162,
+  "grev": 162,
+  "ielts": 7,
+  "toefl": 88,
+  "sat": 1195,
+  "act": 25,
+  "gmat": 602,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c706e94becb27c0001d67"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/63/logo/logo_170X115.png",
+  "name": "University of Pennsylvania",
+  "location": "United States of America",
+  "gre": 325,
+  "greq": 162,
+  "grev": 163,
+  "ielts": 7.5,
+  "toefl": 100,
+  "sat": 1500,
+  "act": 32,
+  "gmat": 730,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c70811f2632486cc65654"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/58/logo/logo_170X115.png",
+  "name": "Stanford University",
+  "location": "United States of America",
+  "gre": 328,
+  "greq": 166,
+  "grev": 162,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1520,
+  "act": 33,
+  "gmat": 737,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c70811f2632486cc65655"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/55/logo/logo_170X115.png",
+  "name": "Harvard University",
+  "location": "United States of America",
+  "gre": 328,
+  "greq": 164,
+  "grev": 164,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1470,
+  "act": 32,
+  "gmat": 730,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c70811f2632486cc65656"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/772/logo/logo_170X115.png",
+  "name": "University of Regina",
+  "location": "Canada",
+  "gre": 328,
+  "greq": 168,
+  "grev": 160,
+  "ielts": 6,
+  "toefl": 70,
+  "sat": 1230,
+  "act": 28,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c70811f2632486cc65657"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/463/logo/logo_170X115.png",
+  "name": "University at Buffalo SUNY",
+  "location": "United States of America",
+  "gre": 328,
+  "greq": 164,
+  "grev": 164,
+  "ielts": 6,
+  "toefl": 70,
+  "sat": 1265,
+  "act": 27,
+  "gmat": 620,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c70811f2632486cc65658"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/91/logo/logo_170X115.png",
+  "name": "Case Western Reserve University",
+  "location": "United States of America",
+  "gre": 328,
+  "greq": 164,
+  "grev": 164,
+  "ielts": 7,
+  "toefl": 90,
+  "sat": 1420,
+  "act": 32,
+  "gmat": 610,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c70811f2632486cc65659"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/60/logo/logo_170X115.png",
+  "name": "Massachusetts Institute of Technology",
+  "location": "United States of America",
+  "gre": 329,
+  "greq": 167,
+  "grev": 162,
+  "ielts": 7,
+  "toefl": 90,
+  "sat": 1520,
+  "act": 34,
+  "gmat": 716,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c70811f2632486cc6565a"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/54/logo/logo_170X115.png",
+  "name": "Princeton University",
+  "location": "United States of America",
+  "gre": 329,
+  "greq": 168,
+  "grev": 161,
+  "ielts": 7,
+  "toefl": 100,
+  "sat": 1460,
+  "act": 32,
+  "gmat": 556,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c70811f2632486cc6565b"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/734/logo/logo_170X115.png",
+  "name": "University of Manchester",
+  "location": "United Kingdom",
+  "gre": 330,
+  "greq": 165,
+  "grev": 165,
+  "ielts": 7,
+  "toefl": 110,
+  "sat": 1300,
+  "act": 29,
+  "gmat": 700,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c70811f2632486cc6565c"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/760/logo/logo_170X115.png",
+  "name": "University of Adelaide",
+  "location": "Australia",
+  "gre": 333,
+  "greq": 170,
+  "grev": 163,
+  "ielts": 6.5,
+  "toefl": 79,
+  "sat": 1300,
+  "act": 0,
+  "gmat": 500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c70811f2632486cc6565d"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/894/logo/logo_170X115.png",
+  "name": "Florida International University",
+  "location": "United States of America",
+  "gre": 336,
+  "greq": 166,
+  "grev": 170,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1120,
+  "act": 23,
+  "gmat": 560,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9c70811f2632486cc6565e"
+  },
+  "logo": "https://s3.ap-south-1.amazonaws.com/gotouniv/uploads/104/logo/logo_170X115.png",
+  "name": "Pennsylvania State University University Park",
+  "location": "United States of America",
+  "gre": 337,
+  "greq": 168,
+  "grev": 168,
+  "ielts": 6.5,
+  "toefl": 80,
+  "sat": 1340,
+  "act": 30,
+  "gmat": 660,
+  "__v": 0
+}]
