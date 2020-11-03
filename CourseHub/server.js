@@ -233,26 +233,43 @@ app.post('/suggestions', (req, res) => {
 
 app.post('/search', (req, res) => {
     if (req.body.keyword) {
+        let results = [];
         const regex = new RegExp(escapeRegex(metaphone(req.body.keyword)), 'gi');
-        Coursera.find({ "metaphoneName": req.body.keyword }, (err, result) => {
+        const regexName = new RegExp(escapeRegex(req.body.keyword), 'gi');
+        Coursera.find({ "metaphoneName": regex }, (err, result) => {
             if (err) {
                 console.log(err);
             }
             else {
+                results = results.concat(result);
 
-                if (result.length < 2) {
+                if (result.length === 0) {
                     Coursera.find({ 'metaphoneDescription': regex }, (err, result2) => {
                         if (err) {
                             console.log(err);
                         }
                         else {
-                            res.status(200).json({ result: result2 })
+                            results = results.concat(result2);
+                            if (results.length === 0) {
+                                Coursera.find({ 'name': regexName }, (err, result3) => {
+                                    if (err) {
+                                        console.log(err)
+                                    }
+                                    else {
+                                        results = results.concat(result3);
+                                        res.status(200).json({ result: results })
+                                    }
+                                })
+                            }
+                            else {
+                                res.status(200).json({ result: results })
+                            }
                         }
                     })
 
                 }
                 else {
-                    res.status(200).json({ result: result });
+                    res.status(200).json({ result: results });
                 }
             }
         })

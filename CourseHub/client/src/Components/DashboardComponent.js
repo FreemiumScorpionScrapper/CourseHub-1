@@ -16,10 +16,7 @@ function Dashboard(props) {
 
 
     useEffect(() => {
-        AuthService.isAuthenticated().then(data => {
-            authContext.setUser(data.user);
-            authContext.setIsAuthenticated(data.isAuthenticated);
-        });
+
 
         const list = { slug: selectedCourseList };
         fetch('/getselected', {
