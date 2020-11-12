@@ -3,7 +3,8 @@ import { withRouter } from "react-router-dom";
 
 import { AuthContext } from '../Context/AuthContext'
 import AuthService from '../Services/AuthService'
-
+import { motion } from 'framer-motion'
+import { courseCardTransition as PageTransition, courseCardVariants as PageVariants } from "../Services/AnimationService";
 
 const CourseCard = (props) => {
 
@@ -29,14 +30,16 @@ const CourseCard = (props) => {
     }
     return (
         <div className="course-card">
-            <a href={courseUrl}><h2>{props.data.name}</h2></a>
+            <a target='_blank' href={courseUrl}><h2>{props.data.name}</h2></a>
             <p className='course-description'>{props.data.description}</p>
-            <p className='course-provider'>{props.data.courseProvider}</p>
-            {props.isAuthenticated && <button
-                className={`add-to-fav-btn ${selectedClass}`}
-                value={`${props.data.slug}`}
-                disabled={selected === true ? true : false}
-                onClick={props.selectCourse}>{selected ? 'Added' : 'Add to favourites'}</button>}
+            <div className='course-footer'>
+                <p className='course-provider'>{props.data.courseProvider}</p>
+                {props.isAuthenticated && <button
+                    className={`add-to-fav-btn ${selectedClass}`}
+                    value={`${props.data.slug}`}
+                    disabled={selected === true ? true : false}
+                    onClick={props.selectCourse}>{selected ? 'Added' : 'Add to favourites'}</button>}
+            </div>
         </div>
     )
 }
@@ -78,9 +81,14 @@ function Course(props) {
 
 
     return (
-        <div className='result-container'>
+        <motion.div
+            exit='out'
+            initial='out'
+            animate='in'
+            variants={PageVariants}
+            transition={PageTransition} className='result-container'>
             <RenderCourseCard selectCourse={selectCourse} selectedCourses={authContext.user.selectedCourses} isAuthenticated={authContext.isAuthenticated} />
-        </div>
+        </motion.div>
     )
 }
 

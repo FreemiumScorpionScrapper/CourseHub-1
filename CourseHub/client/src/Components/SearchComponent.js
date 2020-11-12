@@ -2,7 +2,8 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import Results from './CourseComponent'
-
+import { motion } from 'framer-motion'
+import { PageTransition, PageVariants } from "../Services/AnimationService";
 
 
 function Search(props) {
@@ -42,10 +43,10 @@ function Search(props) {
                     courseUrl = `https://www.coursera.org/learn/${suggestion.slug}`;
                 }
                 else if (suggestion.courseProvider === 'Udacity') {
-                    courseUrl = props.data.slug ? props.data.slug : '';
+                    courseUrl = props.data ? props.data.slug : '';
                 }
                 return (
-                    <a key={index} href={courseUrl}>
+                    <a target='_blank' key={index} href={courseUrl}>
                         <div
                             className={`suggestion-item ${suggestion.courseProvider}`}
                         >
@@ -82,7 +83,12 @@ function Search(props) {
     }
     return (
         <>
-            <div className="main-search">
+            <motion.div
+                exit='out'
+                initial='out'
+                animate='in'
+                variants={PageVariants}
+                transition={PageTransition} className="main-search">
                 <h1 className="brand-huge">CourseHub</h1>
                 <div className='search-box-container'>
                     <form onSubmit={handleSubmit} className="search-box-form" onBlur={suggestionsBlur}>
@@ -97,7 +103,7 @@ function Search(props) {
                         </button>
                     </form>
                 </div>
-            </div>
+            </motion.div>
             {searchResults.length !== 0 ?
                 <Results data={searchResults} />
 

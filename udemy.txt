@@ -1,0 +1,67 @@
+
+const subCategories =
+    ["3D & Animation", "Accounting & Bookkeeping", "Advertising", "Affiliate Marketing", "Apple", "Architectural Design", "Arts & Crafts", "Beauty & Makeup", "Branding", "Business Analytics & Intelligence", "Business Law", "Business Strategy", "Career Development", "Commercial Photography", "Communications", "Compliance", "Content Marketing", "Creativity", "Cryptocurrency & Blockchain", "Dance", "Data Science", "Database Design & Development", "Design Thinking", "Design Tools", "Development Tools", "Dieting", "Digital Marketing", "Digital Photography", "E-Commerce", "Economics", "Engineering", "Entrepreneurship", "Esoteric Practices", "Essential Tech Skills", "Fashion Design", "Finance", "Finance Cert & Exam Prep", "Financial Modeling & Analysis", "Fitness", "Food & Beverage", "Game Design", "Game Development", "Gaming", "General Health", "Google", "Graphic Design & Illustration", "Growth Hacking", "Happiness", "Hardware", "Home Improvement", "Human Resources", "Humanities", "Industry", "Influence", "Instruments", "Interior Design", "Investing & Trading", "IT Certification", "Language", "Leadership", "Management", "Marketing Analytics & Automation", "Marketing Fundamentals", "Math", "Media", "Meditation", "Memory & Study Skills", "Mental Health", "Microsoft", "Mobile Development", "Money Management Tools", "Motivation", "Music Fundamentals", "Music Production", "Music Software", "Music Techniques", "Network & Security", "No-Code Development", "Nutrition", "Online Education", "Operating Systems", "Operations", "Oracle", "Other Business", "Other Design", "Other Finance & Accounting", "Other Health & Fitness", "Other IT & Software", "Other Lifestyle", "Other Marketing", "Other Music", "Other Office Productivity", "Other Personal Development", "Other Photography & Video", "Other Teaching & Academics", "Parenting & Relationships", "Personal Brand Building", "Personal Growth & Wellness", "Personal Productivity", "Personal Transformation", "Pet Care & Training", "Photography", "Photography Tools", "Portrait Photography", "Product Marketing", "Productivity & Professional Skills", "Programming Languages", "Project Management", "Public Relations", "Real Estate", "Religion & Spirituality", "Safety & First Aid", "Sales", "SAP", "Science", "Search Engine Optimization", "Self Defense", "Self Esteem & Confidence", "Social Media Marketing", "Social Science", "Software Engineering", "Software Testing", "Sports", "Stress Management", "Taxes", "Teacher Training", "Test Prep", "Travel", "User Experience Design", "Video & Mobile Marketing", "Video Design", "Vocal", "Vodafone", "Web Design", "Web Development", "Yoga"];
+let total = 0;
+subCategories.map((sub, i) => {
+
+
+    Axios.get(`https://www.udemy.com/api-2.0/courses/?page=1&page_size=100&price=price_paid&subcategory=${sub}`,
+        {
+            auth: {
+                username: "h91IMbyufj4boQkW4opzYCoomhqahViQ2q39R8p6",
+                password: "fS4y5IVcJNLQLykt20qnC3jcOgxwmsc48fJG28lsgCb0CjM2ygzkcyyv8YwNG7kfVBhkVUMWGepA6rZinHXNDKLJQlkhr6RALaq0hRYYihV46KGdRvYv19A1sle19rlb"
+
+            }
+        })
+        .then(res => res.data)
+        .then(async (data) => {
+            if (data.count !== 0) {
+
+
+                const newUdemy = new Udemy({
+                    courseProvider: 'Udemy',
+                    courseType: '',
+                    partnerLogo: '',
+                    description: data.headline ? data.headline : '',
+                    domainTypes: [{ subdomainId: '', domainId: '' }],
+                    photoUrl: '',
+                    categories: skills ? [skills] : [],
+                    courseId: courseLink ? courseLink : '',
+                    slug: data.url ? 'https://www.udemy.com/course' + courseLink : '',
+                    name: data.title ? data.title : '',
+                    instructorIds: [],
+                    partnerIds: collab ? [collab] : [],
+                    specializations: [],
+                    workload: difficulty ? difficulty : '',
+                    primaryLanguages: ['en'],
+                    metaphoneDescription: metaphone(skills),
+                    metaphoneName: metaphone(name)
+                });
+                await newUdacity.save(err => {
+                    if (err) {
+                        console.log(err);
+                    }
+                    else {
+                        console.log("\ndone", name);
+                    }
+                })
+                while (data.next !== null) {
+
+
+                    Axios.get(data.next,
+                        {
+                            auth: {
+                                username: "h91IMbyufj4boQkW4opzYCoomhqahViQ2q39R8p6",
+                                password: "fS4y5IVcJNLQLykt20qnC3jcOgxwmsc48fJG28lsgCb0CjM2ygzkcyyv8YwNG7kfVBhkVUMWGepA6rZinHXNDKLJQlkhr6RALaq0hRYYihV46KGdRvYv19A1sle19rlb"
+
+                            }
+                        })
+                        .then(res => res.data)
+                }
+            }
+
+        })
+
+
+
+})

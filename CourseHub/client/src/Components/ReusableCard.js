@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useContext } from 'react';
 import { AuthContext } from "../Context/AuthContext";
 import AuthService from "../Services/AuthService";
-
+import { motion } from 'framer-motion';
+import { courseCardTransition, courseCardVariants } from "../Services/AnimationService";
 
 function Card(props) {
     const [courseData, setCourseData] = useState([]);
@@ -41,7 +42,8 @@ function Card(props) {
             }
             return (
 
-                <div key={i} className="reusable-card"  >
+                <div
+                    key={i} className="reusable-card"  >
                     <img src={d.photoUrl} />
                     <a href={courseUrl}><h2 className='reusable-card-heading'>{d.name}</h2></a>
                     <p className='reusable-card-body' >{d.description.substring(0, 300)}. . .</p>
