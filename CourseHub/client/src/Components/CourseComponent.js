@@ -25,6 +25,9 @@ const CourseCard = (props) => {
     if (props.data.courseProvider === "Coursera") {
         courseUrl = `https://www.coursera.org/learn/${props.data.slug}`;
     }
+    else if (props.data.courseProvider === "Udemy") {
+        courseUrl = props.data.url
+    }
     else if (props.data.courseProvider === 'Udacity') {
         courseUrl = props.data.slug;
     }

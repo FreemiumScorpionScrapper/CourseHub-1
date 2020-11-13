@@ -45,7 +45,7 @@ function Card(props) {
                 <div
                     key={i} className="reusable-card"  >
                     <img src={d.photoUrl} />
-                    <a href={courseUrl}><h2 className='reusable-card-heading'>{d.name}</h2></a>
+                    <a target="_blank" href={courseUrl}><h2 className='reusable-card-heading'>{d.name}</h2></a>
                     <p className='reusable-card-body' >{d.description.substring(0, 300)}. . .</p>
                     <button className='remove-button' value={d.slug} onClick={handleClick}  ><i className="fa fa-times fa-lg" aria-hidden="true"  ></i></button>
                 </div>

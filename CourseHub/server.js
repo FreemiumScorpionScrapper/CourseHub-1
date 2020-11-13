@@ -12,6 +12,7 @@ const JWT = require('jsonwebtoken');
 const passportConfig = require('./passportConfig');
 const Coursera = require('./coursera');
 const metaphone = require('metaphone');
+const Udemy = require('./udemy');
 
 mongoose.connect('mongodb://localhost/coursehub', { useNewUrlParser: true });
 
@@ -236,43 +237,151 @@ app.post('/search', (req, res) => {
         let results = [];
         const regex = new RegExp(escapeRegex(metaphone(req.body.keyword)), 'gi');
         const regexName = new RegExp(escapeRegex(req.body.keyword), 'gi');
-        Coursera.find({ "metaphoneName": regex }, (err, result) => {
+        Udemy.find({ "metaphoneName": regex }, (err, result) => {
             if (err) {
                 console.log(err);
             }
             else {
                 results = results.concat(result);
-
                 if (result.length === 0) {
-                    Coursera.find({ 'metaphoneDescription': regex }, (err, result2) => {
+                    Udemy.find({ 'metaphoneDescription': regex }, (err, result2) => {
                         if (err) {
                             console.log(err);
                         }
                         else {
                             results = results.concat(result2);
                             if (results.length === 0) {
-                                Coursera.find({ 'name': regexName }, (err, result3) => {
+                                Udemy.find({ 'name': regexName }, (err, result3) => {
                                     if (err) {
                                         console.log(err)
                                     }
                                     else {
                                         results = results.concat(result3);
-                                        res.status(200).json({ result: results })
+                                        Coursera.find({ "metaphoneName": regex }, (err, result) => {
+                                            if (err) {
+                                                console.log(err);
+                                            }
+                                            else {
+                                                results = results.concat(result);
+
+                                                if (result.length === 0) {
+                                                    Coursera.find({ 'metaphoneDescription': regex }, (err, result2) => {
+                                                        if (err) {
+                                                            console.log(err);
+                                                        }
+                                                        else {
+                                                            results = results.concat(result2);
+                                                            if (results.length === 0) {
+                                                                Coursera.find({ 'name': regexName }, (err, result3) => {
+                                                                    if (err) {
+                                                                        console.log(err)
+                                                                    }
+                                                                    else {
+                                                                        results = results.concat(result3);
+                                                                        res.status(200).json({ result: results })
+                                                                    }
+                                                                })
+                                                            }
+                                                            else {
+                                                                res.status(200).json({ result: results })
+                                                            }
+                                                        }
+                                                    })
+
+                                                }
+                                                else {
+                                                    res.status(200).json({ result: results });
+                                                }
+                                            }
+                                        })
                                     }
                                 })
                             }
                             else {
-                                res.status(200).json({ result: results })
+                                Coursera.find({ "metaphoneName": regex }, (err, result) => {
+                                    if (err) {
+                                        console.log(err);
+                                    }
+                                    else {
+                                        results = results.concat(result);
+
+                                        if (result.length === 0) {
+                                            Coursera.find({ 'metaphoneDescription': regex }, (err, result2) => {
+                                                if (err) {
+                                                    console.log(err);
+                                                }
+                                                else {
+                                                    results = results.concat(result2);
+                                                    if (results.length === 0) {
+                                                        Coursera.find({ 'name': regexName }, (err, result3) => {
+                                                            if (err) {
+                                                                console.log(err)
+                                                            }
+                                                            else {
+                                                                results = results.concat(result3);
+                                                                res.status(200).json({ result: results })
+                                                            }
+                                                        })
+                                                    }
+                                                    else {
+                                                        res.status(200).json({ result: results })
+                                                    }
+                                                }
+                                            })
+
+                                        }
+                                        else {
+                                            res.status(200).json({ result: results });
+                                        }
+                                    }
+                                })
                             }
                         }
                     })
 
                 }
                 else {
-                    res.status(200).json({ result: results });
+
+                    Coursera.find({ "metaphoneName": regex }, (err, result) => {
+                        if (err) {
+                            console.log(err);
+                        }
+                        else {
+                            results = results.concat(result);
+
+                            if (result.length === 0) {
+                                Coursera.find({ 'metaphoneDescription': regex }, (err, result2) => {
+                                    if (err) {
+                                        console.log(err);
+                                    }
+                                    else {
+                                        results = results.concat(result2);
+                                        if (results.length === 0) {
+                                            Coursera.find({ 'name': regexName }, (err, result3) => {
+                                                if (err) {
+                                                    console.log(err)
+                                                }
+                                                else {
+                                                    results = results.concat(result3);
+                                                    res.status(200).json({ result: results })
+                                                }
+                                            })
+                                        }
+                                        else {
+                                            res.status(200).json({ result: results })
+                                        }
+                                    }
+                                })
+
+                            }
+                            else {
+                                res.status(200).json({ result: results });
+                            }
+                        }
+                    })
                 }
             }
-        })
+        });
     }
     // else {
     //     res.status(200).json({ result: [] });

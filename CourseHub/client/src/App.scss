@@ -218,22 +218,23 @@ a:hover {
   display: flex;
 }
 .suggestions{
-  background-color: white;
-  z-index: 100;
-  position: absolute;
+  background-color: rgb(255, 255, 255);
+  z-index: 989;
   box-shadow: 0px 3px 11px rgba(0, 0, 0 , .1);
   border-radius: 20px;
   margin-top: 20px;
   width: 800px;
   max-height: 300px;
   overflow-y: scroll;
+  
   a{
+    position: relative;
     color: black;
   }
   
   
   div{
-    z-index: 100;
+    position: relative;
     color: rgb(32, 32, 32);
     background-color: rgb(255, 255, 255);
     font-weight: 500;

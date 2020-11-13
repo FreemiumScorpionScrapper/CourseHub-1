@@ -1,5 +1,5 @@
 import React, { Component, useEffect, useContext } from 'react'
-import { Link } from "react-router-dom";
+import { Link, withRouter } from "react-router-dom";
 import { AuthContext } from "../Context/AuthContext";
 import AuthService from "../Services/AuthService";
 
@@ -16,6 +16,13 @@ function Menus(props) {
             authContext.setUser(data.user);
             authContext.setIsAuthenticated(data.isAuthenticated);
         });
+
+        if (!authContext.isAuthenticated) {
+            console.log(authContext.isAuthenticated);
+            props.history.push('/authorize')
+        } else {
+            props.history.push('/dashboard')
+        }
     }
     useEffect(() => {
 
@@ -80,11 +87,11 @@ function Menus(props) {
             <div className="nav">
                 <div className="nav__content nav__content-hidden">
                     <ul className="nav__list">
-                        <Link to="/" onclick={handleDashboard}>
+                        <Link to="/" onClick={handleDashboard}>
                             <li className="nav__list-item">Home</li>
                         </Link>
 
-                        <Link to="/dashboard" onclick={handleDashboard}>
+                        <Link onClick={handleDashboard}>
                             <li className="nav__list-item">Dashboard</li>
                         </Link>
                     </ul>
@@ -177,4 +184,4 @@ class Menu extends Component {
     }
 }
 
-export default Menus;
+export default withRouter(Menus);

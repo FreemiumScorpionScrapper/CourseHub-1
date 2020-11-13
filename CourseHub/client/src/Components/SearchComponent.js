@@ -88,12 +88,13 @@ function Search(props) {
                 initial='out'
                 animate='in'
                 variants={PageVariants}
-                transition={PageTransition} className="main-search">
+                transition={PageTransition} className="main-search"
+            >
                 <h1 className="brand-huge">CourseHub</h1>
                 <div className='search-box-container'>
-                    <form onSubmit={handleSubmit} className="search-box-form" onBlur={suggestionsBlur}>
+                    <form onSubmit={handleSubmit} className="search-box-form" >
                         <div autoFocus >
-                            <input className="search-box" type="text" placeholder="Let's Find Your Next Course!" autoFocus onChange={handleChange} />
+                            <input className="search-box" type="text" placeholder="Let's Find Your Next Course!" autoFocus onChange={handleChange} onBlur={suggestionsBlur} />
                             <div className="suggestions">
                                 <RenderSuggestions />
                             </div>
@@ -108,6 +109,7 @@ function Search(props) {
                 <Results data={searchResults} />
 
                 : null}
+
         </>
     )
 }

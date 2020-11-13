@@ -17,15 +17,22 @@ const PrivateRoute = (props) => {
     const { component: Component, ...rest } = props;
     // props.history.push('/dashboard');
 
-    return (
-        <Route {...rest} render={(props) => {
-            return (
-                rest.isAuthenticated
-                    ? <Component {...props} />
-                    : <Redirect to='/authorize' />
-            )
-        }} />
-    )
+    if (!props.isAuthenticated) {
+        props.history.push('/authorize');
+    } else {
+        // return (
+        //     <Route {...rest} render={(props) => {
+        //         return (
+        //             rest.isAuthenticated
+        //                 ? <Component {...props} />
+        //                 : <Redirect to='/authorize' />
+        //         )
+        //     }} />
+        // )
+        return (<div></div>)
+    }
+
+
 
 }
 
@@ -45,7 +52,10 @@ function Main(props) {
                     <Route exact path='/' >
                         <Search setCourseData={setCourseData} />
                     </Route>
-                    <PrivateRoute path='/dashboard' component={Dashboard} isAuthenticated={authContext.isAuthenticated} history={props.history} />
+                    {/* <PrivateRoute path='/dashboard' component={Dashboard} isAuthenticated={authContext.isAuthenticated} history={props.history} /> */}
+                    <Route path="/dashboard">
+                        <Dashboard />
+                    </Route>
                     <Route path='/authorize'>
                         <Login />
                     </Route>
