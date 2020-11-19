@@ -1,3 +1,4 @@
+require('dotenv').config();
 const { default: Axios } = require('axios');
 const puppeteer = require('puppeteer');
 const mongoose = require('mongoose');
@@ -25,8 +26,8 @@ subCategories.map((sub, i) => {
     Axios.get(`https://www.udemy.com/api-2.0/courses/?page=1&page_size=1000&price=price_paid&subcategory=${sub}&fields[course]=title,headline,url,avg_rating,image_100x100`,
         {
             auth: {
-                username: "h91IMbyufj4boQkW4opzYCoomhqahViQ2q39R8p6",
-                password: "fS4y5IVcJNLQLykt20qnC3jcOgxwmsc48fJG28lsgCb0CjM2ygzkcyyv8YwNG7kfVBhkVUMWGepA6rZinHXNDKLJQlkhr6RALaq0hRYYihV46KGdRvYv19A1sle19rlb"
+                username: process.env.UDEMY_USER,
+                password: process.env.UDEMY_PASS
 
             }
         })
@@ -72,8 +73,8 @@ function getNext(link, sub) {
         Axios.get(link,
             {
                 auth: {
-                    username: "h91IMbyufj4boQkW4opzYCoomhqahViQ2q39R8p6",
-                    password: "fS4y5IVcJNLQLykt20qnC3jcOgxwmsc48fJG28lsgCb0CjM2ygzkcyyv8YwNG7kfVBhkVUMWGepA6rZinHXNDKLJQlkhr6RALaq0hRYYihV46KGdRvYv19A1sle19rlb"
+                    username: process.env.UDEMY_USER,
+                    password: process.env.UDEMY_PASS
 
                 }
             })

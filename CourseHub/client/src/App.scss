@@ -315,15 +315,23 @@ a:hover {
   position: fixed;
   height: 100vh;
   color: white;
-  .dashboard-avatar {
-    margin-top: 2vh;
-    margin-right: auto;
+  .dashboard-top {
+    .dashboard-avatar {
+      margin-top: 2vh;
+      margin-right: auto;
+        margin-left: auto;
+      height: 2.5vw;
+      width: 2.5vw;
+      border-radius: 3vw;
+      background-color: white;
+    
+    }
+    .dashboard-email {
+      margin-right: auto;
       margin-left: auto;
-    height: 2.5vw;
-    width: 2.5vw;
-    border-radius: 3vw;
-    background-color: white;
-  
+      width: fit-content;
+      margin-top: 4vh;
+    }
   }
   .dashboard-logout {
     margin-right: auto;

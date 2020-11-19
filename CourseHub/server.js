@@ -1,17 +1,20 @@
+require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
+const nodemailer = require("nodemailer");
 const cors = require('cors');
+const metaphone = require('metaphone');
 const passport = require('passport');
 const passportLocal = require('passport-local').Strategy;
 const cookieParser = require('cookie-parser');
 const bcrypt = require('bcryptjs');
 const session = require('express-session');
 const bodyParser = require('body-parser');
-const User = require('./user');
 const JWT = require('jsonwebtoken');
 const passportConfig = require('./passportConfig');
+
+const User = require('./user');
 const Coursera = require('./coursera');
-const metaphone = require('metaphone');
 const Udemy = require('./udemy');
 
 mongoose.connect('mongodb://localhost/coursehub', { useNewUrlParser: true });
@@ -32,40 +35,105 @@ app.use(cors({
 }))
 app.use(
     session({
-        secret: 'secretcode',
+        secret: process.env.SECRET,
         resave: false,
         saveUninitialized: false,
     }));
 
-app.use(cookieParser('secretcode'))
+app.use(cookieParser(process.env.SECRET))
 app.use(passport.initialize())
 app.use(passport.session())
-
-
-// app.post('/login', (req, res, next) => {
-//     passport.authenticate('local', (err, user, info) => {
-//         if (err)
-//             throw err;
-//         if (!user)
-//             res.send("No User Exists");
-//         else {
-//             req.logIn(user, err => {
-//                 if (err) throw err;
-//                 else {
-//                     res.send(user)
-//                     console.log(user)
-//                 }
-//             })
-//         }
-//     })(req, res, next);
-// })
 
 const signToken = userID => {
     return JWT.sign({
         iss: "Tanishq",
         sub: userID
-    }, "secretcode", { expiresIn: "1h" });
+    }, process.env.SECRET, { expiresIn: "1h" });
 }
+
+
+
+app.post('/sendmail', async (req, res) => {
+    let receiverEmail = '';
+    let receiverName = '';
+    let selectedCourses = [];
+    let results = [];
+    let selectedCourseHTML = ``;
+    User.findOne({ _id: req.body.id }, async (err, doc) => {
+        if (err) {
+            console.log(err);
+        } else {
+            receiverEmail = doc.email;
+            receiverName = doc.name;
+            selectedCourses = selectedCourses.concat(doc.selectedCourses);
+
+
+            Udemy.find({ 'url': { "$in": selectedCourses } }, (err, doc) => {
+                if (err) {
+                    console.log(err);
+                } else {
+                    results = results.concat(doc);
+                    Coursera.find({ 'slug': { "$in": selectedCourses } }, async (err, doc) => {
+                        if (err) {
+                            console.log(err);
+                        } else {
+                            results = results.concat(doc);
+
+                            results.map(result => {
+                                let url = ''
+                                if (result.courseProvider === 'Coursera') {
+                                    url = `https://www.coursera.org/learn/${result.slug}`;
+                                }
+                                else if (result.courseProvider === 'Udacity') {
+                                    url = result.slug
+                                }
+                                else {
+                                    url = result.url
+                                }
+                                selectedCourseHTML = selectedCourseHTML + `<li><a href="${url}">${result.name}</a></li>`;
+                            })
+
+
+
+                            let transporter = nodemailer.createTransport({
+                                service: 'gmail',
+                                auth: {
+                                    user: process.env.EMAIL,
+                                    pass: process.env.PASSWORD,
+                                },
+                            });
+
+
+                            const msg = {
+                                from: '"CourseHub" <ziontrav@gmail.com>', // sender address
+                                to: receiverEmail, // list of receivers
+                                subject: "Courses You are Interested in", // Subject line
+                                text: "CourseHub", // plain text body
+                                html: `<h1>Hi ${receiverName}!</h1>
+                                    <h2>You have Selected the following courses on CourseHub</h2>
+                                    <ul>
+                                        ${selectedCourseHTML}
+                                    </ul>
+                                        `, // html body
+                            }
+                            // send mail with defined transport object
+                            let info = await transporter.sendMail(msg);
+
+                            console.log("Message sent: %s", info.messageId);
+                            // Message sent: <b658f8ca-6296-ccf4-8306-87d57a0b4321@example.com>
+
+                            // Preview only available when sending through an Ethereal account
+                            console.log("Preview URL: %s", nodemailer.getTestMessageUrl(info));
+                            res.status(200).json({ message: { msgBody: 'Mail Sent Successfully!', msgError: false } });
+
+                            // res.status(200).json({ course: results });
+                        }
+                    })
+                }
+            })
+        }
+    })
+})
 
 app.post('/login', passport.authenticate('local', { session: false }), (req, res) => {
     if (req.isAuthenticated()) {
@@ -132,11 +200,8 @@ app.post('/selectCourse', (req, res) => {
                     res.status(200).send(' Course Added successfully');
                 }
             })
-
-
         }
     })
-
 })
 
 app.get('/authenticated', passport.authenticate('jwt', { session: false }), (req, res) => {
@@ -158,14 +223,23 @@ app.post('/getcourse', (req, res) => {
 })
 
 app.post('/getselected', (req, res) => {
-
-    console.log()
-    Coursera.find({ 'slug': { "$in": req.body.slug } }, (err, doc) => {
+    let results = []
+    Udemy.find({ 'url': { "$in": req.body.slug } }, (err, doc) => {
         if (err) {
             console.log(err);
-        }
-        else {
-            res.status(200).json({ course: doc });
+        } else {
+            results = results.concat(doc);
+            Coursera.find({ 'slug': { "$in": req.body.slug } }, (err, doc) => {
+                if (err) {
+                    console.log(err);
+                } else {
+                    results = results.concat(doc)
+                    console.log(results.length)
+                    console.log(req.body.slug)
+                    res.status(200).json({ course: results });
+                }
+            })
+
         }
 
     })
@@ -184,8 +258,6 @@ app.post('/removeselected', (req, res) => {
             const removedCourses = courses.filter(course => (course !== req.body.remove));
 
             doc.selectedCourses = removedCourses;
-            console.log(courses, "courses\n")
-            console.log(removedCourses, "removed")
 
             await doc.save((err, mess) => {
                 if (err) {

@@ -9,6 +9,7 @@ import { courseCardTransition as PageTransition, courseCardVariants as PageVaria
 const CourseCard = (props) => {
 
     let courseUrl = '';
+    let addCourseSlug = '';
     let selected = false;
     let selectedClass = ''
     if (props.isAuthenticated) {
@@ -24,12 +25,15 @@ const CourseCard = (props) => {
 
     if (props.data.courseProvider === "Coursera") {
         courseUrl = `https://www.coursera.org/learn/${props.data.slug}`;
+        addCourseSlug = props.data.slug;
     }
     else if (props.data.courseProvider === "Udemy") {
-        courseUrl = props.data.url
+        courseUrl = props.data.url;
+        addCourseSlug = props.data.url;
     }
     else if (props.data.courseProvider === 'Udacity') {
         courseUrl = props.data.slug;
+        addCourseSlug = props.data.slug;
     }
     return (
         <div className="course-card">
@@ -39,7 +43,7 @@ const CourseCard = (props) => {
                 <p className='course-provider'>{props.data.courseProvider}</p>
                 {props.isAuthenticated && <button
                     className={`add-to-fav-btn ${selectedClass}`}
-                    value={`${props.data.slug}`}
+                    value={`${addCourseSlug}`}
                     disabled={selected === true ? true : false}
                     onClick={props.selectCourse}>{selected ? 'Added' : 'Add to favourites'}</button>}
             </div>

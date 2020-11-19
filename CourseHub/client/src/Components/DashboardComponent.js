@@ -17,8 +17,9 @@ function Dashboard(props) {
 
 
     useEffect(() => {
-
-
+        if (!authContext.isAuthenticated) {
+            props.history.push('/')
+        }
         const list = { slug: selectedCourseList };
         fetch('/getselected', {
             method: 'post',
@@ -38,6 +39,21 @@ function Dashboard(props) {
         authContext.setIsAuthenticated(false);
         props.history.push('/');
     }
+
+    const handleMail = (e) => {
+        const data = {
+            id: authContext.user._id
+        }
+        fetch('/sendmail', {
+            method: 'POST',
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(data)
+        }).then(res => res.json()).then(data => {
+            console.log(data);
+        })
+    }
     return (
         <>
 
@@ -48,7 +64,10 @@ function Dashboard(props) {
                 variants={PageVariants}
                 transition={PageTransition}
                 className='dashboard-sidebar'>
-                <div className='dashboard-avatar'></div>
+                <div className="dashboard-top">
+                    <div className='dashboard-avatar'></div>
+                    <div className='dashboard-email'><i class="fa fa-envelope fa-lg" onClick={handleMail} aria-hidden="true"></i></div>
+                </div>
                 <div className='dashboard-logout' onClick={logoutHandler}>
                     <i className="fa fa-sign-out fa-lg" aria-hidden="true"></i>
                 </div>
